@@ -16283,3 +16283,27 @@ span.select2-selection.select2-selection--single:focus {
 
 .vs-menu-toggle.style2 {
 }
+
+.games {
+	position: relative;
+	width: 100%;
+	margin-top: 50px;
+}
+
+.gif-box {
+	position: absolute;
+	top: 50%;
+	transform: translateY(-50%);
+	display: none;
+	transition: opacity 0.5s ease-in-out;
+}
+
+.gif-box.show {
+	display: block;
+	opacity: 1;
+}
+
+.left {
+	left: 0;
+	margin-left: 20px;
+}
