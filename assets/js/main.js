@@ -612,4 +612,4 @@ setTimeout(() => {
         gifBox.style.display = 'none';
     }, 30000);
 
-}, 6000);
+}, 30000);
