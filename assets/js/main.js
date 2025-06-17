@@ -603,13 +603,137 @@
 	});
 })(jQuery);
 
-setTimeout(() => {
-    const gifBox = document.getElementById('gifBox');
-    gifBox.classList.add('show');
+// setTimeout(() => {
+//     const gifBox = document.getElementById('gifBox');
+//     gifBox.classList.add('show');
 
-    setTimeout(() => {
-        gifBox.classList.remove('show');
-        gifBox.style.display = 'none';
-    }, 30000);
+//     setTimeout(() => {
+//         gifBox.classList.remove('show');
+//         gifBox.style.display = 'none';
+//     }, 30000);
 
-}, 30000);
+// }, 30000);
+
+// setTimeout(() => {
+// 	const char1 = document.getElementById('char1');
+// 	char1.style.display = 'block';
+
+// 	setTimeout(() => {
+// 		const char2 = document.getElementById('char2');
+// 		char2.style.display = 'block';
+// 	}, 5000);
+
+// 	setTimeout(() => {
+// 		const char3 = document.getElementById('char3');
+// 		char3.style.display = 'block';
+// 	}, 10000);
+
+// 	setTimeout(() => {
+// 		char1.style.display = 'none';
+// 		char2.style.display = 'none';
+// 		char3.style.display = 'none';
+// 	}, 12000);
+
+// }, 10000);
+
+// setTimeout(() => {
+// 	const char1 = document.getElementById('char1');
+// 	const char2 = document.getElementById('char2');
+// 	const char3 = document.getElementById('char3');
+
+// 	char1.style.display = 'block';
+// 	setTimeout(() => {
+// 	char1.style.display = 'none';
+
+// 	setTimeout(() => {
+// 		char2.style.display = 'block';
+// 		setTimeout(() => {
+// 		char2.style.display = 'none';
+
+// 		setTimeout(() => {
+// 			char3.style.display = 'block';
+// 			setTimeout(() => {
+// 			char3.style.display = 'none';
+// 			}, 10000);
+// 		}, 5000);
+
+// 		}, 10000);
+// 	}, 5000);
+
+// 	}, 10000);
+
+// }, 10000);
+
+// const char1 = document.getElementById('char1');
+// const char2 = document.getElementById('char2');
+// const char3 = document.getElementById('char3');
+
+// function showCharacter(char, animationClass, duration = 5000) {
+// 	char.classList.add(animationClass);
+// 	char.style.display = 'block';
+
+// 	setTimeout(() => {
+// 	char.style.display = 'none';
+// 	char.classList.remove(animationClass);
+// 	}, duration);
+// }
+
+// function startLoop() {
+// 	let delay = 0;
+
+// 	setInterval(() => {
+// 	setTimeout(() => {
+// 		showCharacter(char1, 'animate-left');
+// 	}, 0);
+
+// 	setTimeout(() => {
+// 		showCharacter(char2, 'animate-right');
+// 	}, 7000);
+
+// 	setTimeout(() => {
+// 		showCharacter(char3, 'animate-fade');
+// 	}, 14000);
+// 	}, 21000);
+// }
+
+// setTimeout(startLoop, 60000);
+
+const char1 = document.getElementById('char1');
+const char2 = document.getElementById('char2');
+const char3 = document.getElementById('char3');
+
+function animateCharacter(char, inClass, outClass, stayTime = 10000) {
+	char.style.display = 'block';
+	char.classList.add(inClass);
+
+	setTimeout(() => {
+	char.classList.remove(inClass);
+	char.classList.add(outClass);
+
+	setTimeout(() => {
+		char.style.display = 'none';
+		char.classList.remove(outClass);
+	}, 1000); // match out animation duration
+	}, stayTime);
+}
+
+function startLoop() {
+	setInterval(() => {
+	// Show Character 1
+	animateCharacter(char1, 'animate-left-in', 'animate-left-out');
+
+	// Show Character 2 after 20 seconds
+	setTimeout(() => {
+		animateCharacter(char2, 'animate-right-in', 'animate-right-out');
+	}, 20000);
+
+	// Show Character 3 after 40 seconds
+	setTimeout(() => {
+		animateCharacter(char3, 'animate-center-in', 'animate-center-out');
+	}, 40000);
+
+	}, 60000); // 60s loop
+}
+
+// Start after 2 minutes (120000 ms)
+setTimeout(startLoop, 60000);
