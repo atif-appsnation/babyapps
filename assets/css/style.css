@@ -796,9 +796,9 @@ textarea.is-invalid {
 }
 
 .vs-mobile-menu {
-	overflow-y: scroll;
+	/* overflow-y: scroll;
 	max-height: calc(100vh - 200px);
-	padding-bottom: 40px;
+	padding-bottom: 40px; */
 	margin-top: 33px;
 	text-align: left;
 }
@@ -843,7 +843,7 @@ textarea.is-invalid {
 }
 
 .vs-mobile-menu ul li a:before {
-	content: "\f105";
+	/* content: "\f105"; */
 	font-family: var(--icon-font);
 	position: relative;
 	left: 0;
@@ -3590,7 +3590,7 @@ a.text-theme:hover,
 
 	.header-layout2 .menu-area {
 		padding: 0 25px 0 15px;
-		margin-bottom: -30px;
+		margin-bottom: 0px;
 	}
 
 	.header-layout2 .menu-area::before {
@@ -16429,11 +16429,45 @@ span.select2-selection.select2-selection--single:focus {
 	width: 150px;
 }
 
-.app-store, .play-store {
-	width: 50%;
-	height: 50%;
-}
-
 .slick-slide {
     margin: 0 5px;
+}
+
+.sidebar_widget_title {
+	padding: 0 40px 10px;
+}
+
+.sidebar_widget_title:before {
+	left: 40px;
+}
+
+.req-card {
+	border-radius: 15px;
+	background-color: #000;
+}
+
+.req-card h4, .req-card p, .req-card ul li {
+	color: #fff;
+}
+
+.req-card hr {
+	background-color: #fff;
+	margin: 2rem 0;
+}
+
+.req-card .details {
+	display: flex;
+    gap: 16px;
+    align-items: center;
+}
+
+.req-card .details p {
+	margin: 0;
+}
+
+.req-card .games-details {
+	gap: 16px;
+	align-items: flex-start;
+    display: flex;
+    flex-direction: column;
 }
