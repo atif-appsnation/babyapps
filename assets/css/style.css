@@ -652,7 +652,7 @@ textarea.is-invalid {
 	border: none;
 	padding: 0;
 	position: absolute;
-	top: 50%;
+	top: 55%;
 	z-index: 2;
 	left: var(--pos-x, -150px);
 	width: var(--icon-size, 60px);
@@ -663,6 +663,7 @@ textarea.is-invalid {
 	color: var(--white-color);
 	border-radius: 50%;
 	transition: all ease 0.6s;
+	font-size: 12px;
 }
 
 .slick-arrow:before {
@@ -688,8 +689,12 @@ textarea.is-invalid {
 }
 
 .slick-arrow.slick-next {
-	right: var(--pos-x, -150px);
+	right: var(--pos-x, -25px);
 	left: auto;
+}
+
+.slick-prev {
+    left: -25px !important;
 }
 
 .slick-arrow:hover {
@@ -16425,6 +16430,10 @@ span.select2-selection.select2-selection--single:focus {
 }
 
 .app-store, .play-store {
-	width: 10%;
-	height: 10%;
+	width: 50%;
+	height: 50%;
+}
+
+.slick-slide {
+    margin: 0 5px;
 }

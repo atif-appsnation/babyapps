@@ -737,3 +737,39 @@ function startLoop() {
 
 // Start after 2 minutes (120000 ms)
 setTimeout(startLoop, 60000);
+
+$('.slider').slick({
+	nav: true,
+	infinite: false,
+	speed: 300,
+	slidesToShow: 2,
+	slidesToScroll: 1,
+	centerPadding: '20px',
+	autoplay: true,
+  	autoplaySpeed: 2000,
+	responsive: [
+		{
+		breakpoint: 1024,
+		settings: {
+			slidesToShow: 3,
+			slidesToScroll: 3,
+			infinite: true,
+			dots: true,
+		}
+		},
+		{
+		breakpoint: 600,
+		settings: {
+			slidesToShow: 2,
+			slidesToScroll: 2
+		}
+		},
+		{
+		breakpoint: 480,
+		settings: {
+			slidesToShow: 1,
+			slidesToScroll: 1
+		}
+		}
+	]
+});
