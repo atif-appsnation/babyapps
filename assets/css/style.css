@@ -16471,3 +16471,19 @@ span.select2-selection.select2-selection--single:focus {
     display: flex;
     flex-direction: column;
 }
+
+.modal-header .btn-close {
+    padding: .5rem 0.5rem 1rem;
+}
+
+.btn-close {
+    box-sizing: content-box;
+    width: 1em;
+    height: 1em;
+    padding: .25em;
+    color: #fff;
+    background: var(--theme-color);
+    border: 0;
+    border-radius: .25rem;
+    opacity: 1;
+}
