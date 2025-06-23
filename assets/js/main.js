@@ -773,3 +773,11 @@ $('.slider').slick({
 		}
 	]
 });
+
+const toggleBtn = document.getElementById('toggleBtn');
+const content = document.getElementById('collapsibleContent');
+
+toggleBtn.addEventListener('click', function () {
+	content.classList.toggle('expanded');
+	toggleBtn.textContent = content.classList.contains('expanded') ? 'View Less' : 'View More';
+});

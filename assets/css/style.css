@@ -16487,3 +16487,13 @@ span.select2-selection.select2-selection--single:focus {
     border-radius: .25rem;
     opacity: 1;
 }
+
+.collapsible-text {
+	max-height: 350px;
+	overflow: hidden;
+	transition: max-height 0.5s ease;
+}
+
+.collapsible-text.expanded {
+    max-height: 2000px;
+}
