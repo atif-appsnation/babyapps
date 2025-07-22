@@ -43,18 +43,23 @@
                 <a href="index"><img src="assets/img/logo.svg" alt="Baby Apps"></a>
             </div>
             <div class="vs-mobile-menu">    
-                <li>
-                                                <a href="index">Home</a>
-                                            </li>
-                                            <li>
-                                                <a href="about">About Us</a>
-                                            </li>
-                                            <li>
-                                                <a href="blog">Blogs</a>
-                                            </li>
-                                            <li>
-                                                <a href="contact">Contact</a>
-                                            </li>
+                <ul>
+                    <li>
+                        <a href="index">Home</a>
+                    </li>
+                    <li>
+                        <a href="about-us">About Us</a>
+                    </li>
+                    <li>
+                        <a href="blog">Blog</a>
+                    </li>
+                    <li>
+                        <a href="video">Videos</a>
+                    </li>
+                    <li>
+                        <a href="contact-us">Contact Us</a>
+                    </li>
+                </ul>
             </div>
         </div>
     </div>
@@ -179,13 +184,16 @@
                                         <a href="index">Home</a>
                                     </li>
                                     <li>
-                                        <a href="about">About Us</a>
+                                        <a href="about-us">About Us</a>
                                     </li>
                                     <li>
                                         <a href="blog">Blogs</a>
                                     </li>
                                     <li>
-                                        <a href="contact">Contact</a>
+                                        <a href="video">Videos</a>
+                                    </li>
+                                    <li>
+                                        <a href="contact-us">Contact Us</a>
                                     </li>
                                 </ul>
                             </nav>

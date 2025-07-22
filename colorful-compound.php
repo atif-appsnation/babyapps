@@ -43,18 +43,23 @@
                 <a href="index"><img src="assets/img/logo.svg" alt="Baby Apps"></a>
             </div>
             <div class="vs-mobile-menu">    
-                <li>
-                                                <a href="index">Home</a>
-                                            </li>
-                                            <li>
-                                                <a href="about">About Us</a>
-                                            </li>
-                                            <li>
-                                                <a href="blog">Blogs</a>
-                                            </li>
-                                            <li>
-                                                <a href="contact">Contact</a>
-                                            </li>
+                <ul>
+                    <li>
+                        <a href="index">Home</a>
+                    </li>
+                    <li>
+                        <a href="about-us">About Us</a>
+                    </li>
+                    <li>
+                        <a href="blog">Blog</a>
+                    </li>
+                    <li>
+                        <a href="video">Videos</a>
+                    </li>
+                    <li>
+                        <a href="contact-us">Contact Us</a>
+                    </li>
+                </ul>
             </div>
         </div>
     </div>
@@ -175,19 +180,22 @@
                         <div class="col text-end text-lg-center">
                             <nav class="main-menu menu-style1 d-none d-lg-block">
                                 <ul>
-                                            <li>
-                                                <a href="index">Home</a>
-                                            </li>
-                                            <li>
-                                                <a href="about">About Us</a>
-                                            </li>
-                                            <li>
-                                                <a href="blog">Blogs</a>
-                                            </li>
-                                            <li>
-                                                <a href="contact">Contact</a>
-                                            </li>
-                                        </ul>
+                                    <li>
+                                        <a href="index">Home</a>
+                                    </li>
+                                    <li>
+                                        <a href="about-us">About Us</a>
+                                    </li>
+                                    <li>
+                                        <a href="blog">Blogs</a>
+                                    </li>
+                                    <li>
+                                        <a href="video">Videos</a>
+                                    </li>
+                                    <li>
+                                        <a href="contact-us">Contact Us</a>
+                                    </li>
+                                </ul>
                             </nav>
                             <button class="vs-menu-toggle d-inline-block d-lg-none"><i class="fal fa-bars"></i></button>
                         </div>

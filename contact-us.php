@@ -4,7 +4,7 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title>Match The Shape - Baby Apps</title>
+    <title>About Us - Baby Apps</title>
     <meta name="description" content="Games for Preschool, Kindergarten and Primary">
     <meta name="keywords" content="Games for Preschool, Kindergarten and Primary">
     <meta name="robots" content="INDEX,FOLLOW">
@@ -23,7 +23,6 @@
 </head>
 
 <body>
-
     <!-- Start Preloader -->
     <div class="preloader">
         <button class="vs-btn preloaderCls">Cancel Preloader </button>
@@ -166,6 +165,34 @@
 
     <!-- Start Header -->
     <header class="vs-header header-layout1">
+        <div class="header-top">
+            <div class="container">
+                <div class="row justify-content-between align-items-center">
+                    <div class="col-auto d-none d-lg-block">
+                        <div class="vs-social">
+                            <a href="#"><i class="fab fa-facebook-f"></i></a>
+                            <a href="#"><i class="fab fa-twitter"></i></a>
+                            <a href="#"><i class="fab fa-linkedin-in"></i></a>
+                            <a href="#"><i class="fab fa-youtube"></i></a>
+                        </div>
+                    </div>
+                    <div class="col-lg-auto text-center">
+                        <div class="header-links style2 style-white">
+                            <ul>
+                                <li>
+                                    <i class="fas fa-envelope"></i>Email:
+                                    <a href="mailto:contact@babyapps.kids">contact@babyapps.kids</a>
+                                </li>
+                                <li>
+                                    <i class="fas fa-mobile-alt"></i>Phone:
+                                    <a href="tel:+13237989803">+1 (323) 798-9803</a>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
         <div class="sticky-wrap">
             <div class="">
                 <div class="container">
@@ -209,160 +236,118 @@
             </div>
         </div>
     </header>
+    <!-- End Header -->
 
     <!-- Start Breadcumb -->
     <div class="breadcumb-wrapper" data-bg-src="assets/img/breadcumb/breadcumb-bg.jpg">
         <div class="container z-index-common">
             <div class="breadcumb-content">
-                <h1 class="breadcumb-title">Match The Shape</h1>
+                <h1 class="breadcumb-title">Contact Us</h1>
                 <p class="breadcumb-text">Montessori Is A Nurturing And Holistic Approach To Learning</p>
                 <div class="breadcumb-menu-wrap">
                     <ul class="breadcumb-menu">
                         <li><a href="index">Home</a></li>
-                        <li>Match The Shape</li>
+                        <li>Contact Us</li>
                     </ul>
                 </div>
             </div>
         </div>
     </div>
-    <!-- End Breadcumb -->
-     
-    <!-- Start Game -->
-    <section class="my-5">
+    <!-- End Breadcumb -->    
+    
+    <!--==============================
+    Contact Area
+    ==============================-->
+    <section class=" space-top space-extra-bottom ">
         <div class="container">
             <div class="row">
-                <div class="col-12">
-                    <iframe src="https://games.appsnation.co/alphabet-match-up/index.html" allowfullscreen width="100%" height="800"></iframe>
-                </div>
-            </div>
-        </div>
-    </section>
-    <!-- End Game -->
-
-    <!-- Start Gallery -->
-    <section class="my-5">
-        <div class="container">
-            <div class="row">
-                <div class="col-12 col-lg-9">
-                    <div class="row">
-                        <div class="col-lg-5">
-                            <div class="d-flex">
-                                <a href="#" target="_blank">
-                                    <img src="assets/img/app-store.webp" class="img-fluid" alt="App Store">
-                                </a>
-                                <a href="https://play.google.com/store/apps/details?id=com.babyapps.kids.MatchTheShape" target="_blank" class="ms-2">
-                                    <img src="assets/img/play-store.webp" class="img-fluid" alt="Play Store">
-                                </a>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="row mt-3">
-                        <div class="col-12">
-                            <div class="slider">
-                                <div><img src="assets/img/games/match-the-shape/match-the-shape-01.webp" class="img-fluid" alt="Match The Shape"></div>
-                                <div><img src="assets/img/games/match-the-shape/match-the-shape-02.webp" class="img-fluid" alt="Match The Shape"></div>
-                                <div><img src="assets/img/games/match-the-shape/match-the-shape-03.webp" class="img-fluid" alt="Match The Shape"></div>
-                                <div><img src="assets/img/games/match-the-shape/match-the-shape-04.webp" class="img-fluid" alt="Match The Shape"></div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="row mt-4">
-                        <div class="col-12">
-                            <div class="collapsible-text" id="collapsibleContent">
-                                <h3>About this game</h3>
-                                <p>Match the Shape – A Fun Shape Matching Game for Kids.</p>
-                                <p>Match the Shape is a colorful and educational shape matching puzzle game that helps young learners recognize shapes, patterns, and positions. With drag-and-drop gameplay, cheerful visuals, and positive reinforcement, it’s perfect for toddlers and preschoolers aged 3 to 8.</p>
-                                <p>Whether your child is learning basic shapes, improving hand-eye coordination, or simply enjoying screen time, Match the Shape makes learning fun, safe, and effective.</p>
-                                <h4>What Kids Will Learn:</h4>
-                                <ul>
-                                    <li><b>Shape Recognition:</b> Match circles, squares, triangles, stars, and more!</li>
-                                    <li><b>Spatial Thinking & Logic:</b> Understand object placement, visual comparison, and basic puzzles.</li>
-                                    <li><b>Visual Memory & Pattern Matching:</b> Solve colorful challenges that reinforce early learning skills.</li>
-                                    <li><b>Motor Skill Development:</b> Drag, drop, and match shapes with smooth, child-friendly controls.</li>
-                                </ul>
-                                <h4>Game Features:</h4>
-                                <ul>
-                                    <li><b>Dozens of Shape Matching Puzzles:</b> Different levels with increasing difficulty — perfect for all age groups.</li>
-                                    <li><b>Fun, Interactive Gameplay:</b> Tap, drag, and match shapes to the correct outline.</li>
-                                    <li><b>Designed for Kids Ages 3–8:</b> Bright colors, clear shapes, and joyful animations encourage engagement.</li>
-                                    <li><b>100% Safe:</b> no in-app purchases, and offline-ready — built for safe screen time.</li>
-                                    <li><b>Progress Tracking & Motivational Feedback:</b> Stars and rewards for completed puzzles to motivate kids to learn more.</li>
-                                </ul>
-                                <h4>Who It’s For?</h4>
-                                <ul>
-                                    <li><b>Toddlers (Ages 3–4):</b> Visual play and shape exposure.</li>
-                                    <li><b>Preschoolers (Ages 4–6):</b> Fine motor and recognition practice.</li>
-                                    <li><b>Early Learners (Ages 6–8):</b> Cognitive development and visual logic.</li>
-                                    <li><b>Parents & Educators:</b> An effective tool to teach basic shapes through play.</li>
-                                </ul>
-                                <h4>From the BabyApps Learning Series</h4>
-                                <p>Match the Shape was designed by BabyApps our Play Store registered studio focused exclusively on child-safe educational games with development collaboration from AppexGames and AppsNation..</p>
-                                <p>Built with feedback from educators, therapists, and digital learning experts, this title introduces children to geometric awareness, shape recognition, and motor control in a way that’s approachable, repeatable, and fun.</p>
-                                <p>Every part of this game, from the gentle animations to the audio prompts, was crafted to make early STEM skills feel natural and rewarding right from the first tap.</p>
-                            </div>
-                            <button class="btn vs-btn toggle-btn mt-3" id="toggleBtn">View More</button>
-                        </div>
+                <div class="col-md-4">
+                    <div class="info-style2">
+                        <div class="info-icon"><img src="assets/img/icon/c-b-1-1.svg" alt="icon"></div>
+                        <h3 class="info-title">Phone No</h3>
+                        <p class="info-text"><a href="tel:+4402076897888" class="text-inherit">+44 (0) 207 689 7888</a>
+                        </p>
                     </div>
                 </div>
-                <div class="col-12 col-lg-3">
-                    <div class="card req-card h-100">
-                        <div class="card-body">
-                            <h4>Play on PC</h4>
-                            <p>Play this game on your Windows PC</p>
-                            <hr>
-                            <section>
-                                <div class="games-details">
-                                    <div class="details">
-                                        <svg width="20" height="21" viewBox="0 0 22 21" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                            <path d="M21.7143 10.625L19.3614 7.93464L19.6893 4.37643L16.2082 3.58571L14.3857 0.5L11.1071 1.90786L7.82857 0.5L6.00607 3.57607L2.525 4.35714L2.85286 7.925L0.5 10.625L2.85286 13.3154L2.525 16.8832L6.00607 17.6739L7.82857 20.75L11.1071 19.3325L14.3857 20.7404L16.2082 17.6643L19.6893 16.8736L19.3614 13.3154L21.7143 10.625ZM9.26536 15.1764L5.60107 11.5025L7.02821 10.0754L9.26536 12.3221L14.9064 6.66179L16.3336 8.08893L9.26536 15.1764Z" fill="white"></path>
-                                        </svg>
-                                        <p class="fwc4vd">Official Google experience</p>
-                                    </div>
-                                    <div class="details">
-                                        <svg width="19" height="18" viewBox="0 0 19 18" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                            <path d="M16.5 0.996094H1.80469C1.31771 0.996094 0.895184 1.17513 0.537109 1.5332C0.179035 1.89128 0 2.32812 0 2.84375V13.8438C0 14.3307 0.179035 14.7533 0.537109 15.1113C0.895184 15.4694 1.31771 15.6484 1.80469 15.6484H5.5V17.4961H12.8047V15.6484H16.5C16.987 15.6484 17.4095 15.4694 17.7676 15.1113C18.1257 14.7533 18.3047 14.3307 18.3047 13.8438V2.84375C18.3047 2.32812 18.1257 1.89128 17.7676 1.5332C17.4095 1.17513 16.987 0.996094 16.5 0.996094ZM16.5 13.8438H1.80469V2.84375H16.5V13.8438ZM4.125 5.12109H6.40234V3.74609H2.75V7.39844H4.125V5.12109ZM15.5547 9.24609H14.1797V11.5234H11.9023V12.8984H15.5547V9.24609Z" fill="white" fill-opacity="0.9"></path>
-                                        </svg>
-                                        <p class="fwc4vd">Bigger screen</p>
-                                    </div>
-                                    <div class="details">
-                                        <svg width="19" height="11" viewBox="0 0 19 11" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                            <path d="M12.8047 0H18.3047V5.5L16.1992 3.39453L10.4414 9.15234L6.78906 5.5L1.28906 11L0 9.71094L6.78906 2.92188L10.4414 6.57422L14.9102 2.10547L12.8047 0Z" fill="white" fill-opacity="0.9"></path>
-                                        </svg>
-                                        <p class="fwc4vd">Level up with improved controls</p>
-                                    </div>
-                                    <div class="details">
-                                        <svg width="18" height="24" viewBox="0 0 18 24" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                            <path d="M9 3.81818V0.75L4.875 4.84091L9 8.93182V5.86364C12.4134 5.86364 15.1875 8.61477 15.1875 12C15.1875 13.033 14.9297 14.0148 14.4656 14.8636L15.9713 16.3568C16.7756 15.0989 17.25 13.6057 17.25 12C17.25 7.47955 13.5581 3.81818 9 3.81818ZM9 18.1364C5.58656 18.1364 2.8125 15.3852 2.8125 12C2.8125 10.967 3.07031 9.98523 3.53437 9.13636L2.02875 7.64318C1.22437 8.90114 0.75 10.3943 0.75 12C0.75 16.5205 4.44187 20.1818 9 20.1818V23.25L13.125 19.1591L9 15.0682V18.1364Z" fill="white"></path>
-                                        </svg>
-                                        <p class="fwc4vd">Seamless sync across devices*</p>
-                                    </div>
-                                    <div class="details">
-                                        <svg width="17" height="16" viewBox="0 0 17 16" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                            <path fill-rule="evenodd" clip-rule="evenodd" d="M15 3.33333H13.1833C13.275 3.075 13.3333 2.79167 13.3333 2.5C13.3333 1.11667 12.2167 0 10.8333 0C9.95833 0 9.2 0.45 8.75 1.125L8.33333 1.68333L7.91667 1.11667C7.46667 0.45 6.70833 0 5.83333 0C4.45 0 3.33333 1.11667 3.33333 2.5C3.33333 2.79167 3.39167 3.075 3.48333 3.33333H1.66667C0.741667 3.33333 0.00833333 4.075 0.00833333 5L0 14.1667C0 15.0917 0.741667 15.8333 1.66667 15.8333H15C15.925 15.8333 16.6667 15.0917 16.6667 14.1667V5C16.6667 4.075 15.925 3.33333 15 3.33333ZM10.8333 1.66667C11.2917 1.66667 11.6667 2.04167 11.6667 2.5C11.6667 2.95833 11.2917 3.33333 10.8333 3.33333C10.375 3.33333 10 2.95833 10 2.5C10 2.04167 10.375 1.66667 10.8333 1.66667ZM6.66667 2.5C6.66667 2.04167 6.29167 1.66667 5.83333 1.66667C5.375 1.66667 5 2.04167 5 2.5C5 2.95833 5.375 3.33333 5.83333 3.33333C6.29167 3.33333 6.66667 2.95833 6.66667 2.5ZM1.66667 14.1667V12.5H15V14.1667H1.66667ZM1.66667 5V10H15V5H10.7667L12.5 7.35833L11.15 8.33333L8.33333 4.5L5.51667 8.33333L4.16667 7.35833L5.9 5H1.66667Z" fill="white"></path>
-                                        </svg>
-                                        <p class="fwc4vd">Earn Google Play Points</p>
-                                    </div>
-                                </div>
-                            </section>
-                            <hr>
-                            <h4>Minimum Requirements</h4>
-                            <ul>
-                                <li><strong>OS: </strong>Windows 10</li>
-                                <li><strong>Graphics: </strong>IntelⓇ UHD Graphics 630 GPU or comparable</li>
-                                <li><strong>Processor: </strong>4 CPU physical cores</li>
-                                <li><strong>Memory: </strong>8GB of Ram</li>
-                            </ul>
-                            <hr>
-                            <p>To learn more about these requirements, visit the Help Center</p>
-                            <p>Intel is a registered trademark of Intel Corporation or its subsidiaries. Windows is a trademark of the Microsoft group of companies.</p>
-                            <p>*Might not be available for this game</p>
-                        </div>
+                <div class="col-md-4">
+                    <div class="info-style2">
+                        <div class="info-icon"><img src="assets/img/icon/c-b-1-2.svg" alt="icon"></div>
+                        <h3 class="info-title">Monday to Friday</h3>
+                        <p class="info-text">8.30am – 02.00pm</p>
+                    </div>
+                </div>
+                <div class="col-md-4">
+                    <div class="info-style2">
+                        <div class="info-icon"><img src="assets/img/icon/c-b-1-3.svg" alt="icon"></div>
+                        <h3 class="info-title">Email Address</h3>
+                        <p class="info-text"><a href="mailto:user@domainname.com"
+                                class="text-inherit">user@domainname.com</a></p>
                     </div>
                 </div>
             </div>
         </div>
+    </section><!--==============================
+    Contact Area
+    ==============================-->
+    <section class=" space-extra-bottom ">
+        <div class="container">
+            <div class="row flex-row-reverse gx-60 justify-content-between">
+                <div class="col-xl-auto">
+                    <img src="assets/img/about/con-2-1.png" alt="girl" class="w-100">
+                </div>
+                <div class="col-xl col-xxl-6 align-self-center">
+                    <div class="title-area">
+                        <span class="sec-subtitle">Have Any questions? so plese</span>
+                        <h2 class="sec-title">Feel Free to Contact!</h2>
+                    </div>
+                    <form action="mail.php" class="form-style3 layout2 ajax-contact">
+                        <div class="row justify-content-between">
+                            <div class="col-md-6 form-group">
+                                <label>First Name <span class="required">(Required)</span></label>
+                                <input name="firstname" id="firstname" type="text">
+                            </div>
+                            <div class="col-md-6 form-group">
+                                <label>Last Name <span class="required">(Required)</span></label>
+                                <input name="lastname" id="lastname" type="text">
+                            </div>
+                            <div class="col-md-6 form-group">
+                                <label>Email Address <span class="required">(Required)</span></label>
+                                <input name="email" id="email" type="email">
+                            </div>
+                            <div class="col-md-6 form-group">
+                                <label>Phone Number <span class="required">(Required)</span></label>
+                                <input name="number" id="number" type="number">
+                            </div>
+                            <div class="col-12 form-group">
+                                <label>Message <span class="required">(Required)</span></label>
+                                <textarea name="message" id="message" cols="30" rows="10"
+                                    placeholder="Type your message"></textarea>
+                            </div>
+                            <div class="col-auto form-group">
+                                <button class="vs-btn" type="submit">Send Message</button>
+                            </div>
+                            <p class="form-messages"></p>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </section><!--==============================
+    Map Area
+    ==============================-->
+    <section class=" space-bottom">
+        <div class="container">
+            <div class="title-area">
+                <h2 class="mt-n2">How To Find Us</h2>
+            </div>
+            <div class="map-style1">
+                <iframe
+                    src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d461913.0572571096!2d8.516164543417332!3d50.24088825844987!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47bd121b354b47fd%3A0x422435029b0c610!2sOffenbach%2C%20Germany!5e0!3m2!1sen!2sbd!4v1693456840610!5m2!1sen!2sbd"
+                    width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"
+                    referrerpolicy="no-referrer-when-downgrade"></iframe>
+            </div>
+        </div>
     </section>
-    <!-- End Gallery -->
 
     <!-- Start Wave Shape -->
     <div class="vs-wave-shape  ">
@@ -372,7 +357,7 @@
         </svg>
     </div>
     <!-- End Wave Shape -->
-
+    
     <!-- Start Footer Area -->
     <footer class="footer-wrapper footer-layout3">
         <div class="shape-mockup jump-reverse d-none d-xxxl-block" data-right="0" data-top="0">
@@ -424,17 +409,20 @@
                     </div>
                     <div class="col-md-6 col-lg-4">
                         <div class="widget footer-widget">
-                            <h3 class="widget_title">Main Campus</h3>
+                            <h3 class="widget_title">Our Office</h3>
                             <div class="vs-widget-about">
-                                <p class="map-link mb-2 pb-1">First Floor, 10A Chandos Street London New Town W1G 9LE </p>
+                                <p class="map-link mb-2 pb-1">3415 S Sepulveda Blvd #1100, Los Angeles, CA 90034, United States</p>
                                 <p class="footer-call">
-                                    <a class="text-inherit" href="tel:+4402076897888">+44 (0) 207 689 7888</a>
+                                    <a class="text-inherit" href="tel:+13237989803"> +1 (323) 798-9803</a>
+                                </p>
+                                <p class="footer-call">
+                                    <a class="text-inherit" href="mailto:contact@babyapps.kids"> contact@babyapps.kids</a>
                                 </p>
                             </div>
                         </div>
                     </div>
                     <div class="col-md-6 col-lg-4">
-                        <div class="widget footer-widget">
+                        <!-- <div class="widget footer-widget">
                             <h3 class="widget_title">National Campus</h3>
                             <div class="vs-widget-about">
                                 <p class="map-link mb-2 pb-1">First Floor, 10A Chandos Street London New Town W1G 9LE</p>
@@ -442,7 +430,7 @@
                                     <a class="text-inherit" href="tel:+4402076897888">+44 (0) 207 689 7888</a>
                                 </p>
                             </div>
-                        </div>
+                        </div> -->
                     </div>
                 </div>
             </div>
@@ -459,7 +447,7 @@
                         </div>
                     </div>
                     <div class="col-lg-auto">
-                        <p class="copyright-text text-white">&copy; Copyright 2025 <a href="index">Baby Apps</a>. All Rights Reserved By <a href="https://appexgames.co/" target="_blank">Appex Games</a></p>
+                        <p class="copyright-text text-white">&copy; Copyright 2025 <a href="index.php">Baby Apps</a>. All Rights Reserved By <a href="https://appexgames.co/" target="_blank">Appex Games</a></p>
                     </div>
                 </div>
             </div>
@@ -487,17 +475,12 @@
 
     <script src="assets/js/vendor/jquery-3.6.0.min.js"></script>
     <script src="assets/js/slick.min.js"></script>
-    <script src="assets/js/layerslider.utils.js"></script>
-    <script src="assets/js/layerslider.transitions.js"></script>
-    <script src="assets/js/layerslider.kreaturamedia.jquery.js"></script>
     <script src="assets/js/jquery-ui.min.js"></script>
     <script src="assets/js/bootstrap.min.js"></script>
     <script src="assets/js/jquery.magnific-popup.min.js"></script>
     <script src="assets/js/imagesloaded.pkgd.min.js"></script>
     <script src="assets/js/isotope.pkgd.min.js"></script>
-    <script src="assets/js/datecounter.js"></script>
     <script src="assets/js/main.js"></script>
-
 </body>
 
 </html>

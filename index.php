@@ -49,13 +49,13 @@
                         <a href="index">Home</a>
                     </li>
                     <li>
-                        <a href="about">About Us</a>
+                        <a href="about-us">About Us</a>
                     </li>
                     <li>
                         <a href="blog">Blog</a>
                     </li>
                     <li>
-                        <a href="contact">Contact Us</a>
+                        <a href="contact-us">Contact Us</a>
                     </li>
                 </ul>
             </div>
@@ -195,13 +195,13 @@
                                                 <a href="index">Home</a>
                                             </li>
                                             <li>
-                                                <a href="about">About Us</a>
+                                                <a href="about-us">About Us</a>
                                             </li>
                                             <li>
                                                 <a href="blog">Blogs</a>
                                             </li>
                                             <li>
-                                                <a href="contact">Contact</a>
+                                                <a href="contact-us">Contact Us</a>
                                             </li>
                                         </ul>
                                     </nav>
@@ -1036,15 +1036,16 @@
     </section>
     <!-- Start Games -->
 
-    <!-- Wave Shape -->
+    <!-- Start Wave Shape -->
     <div class="vs-wave-shape">
         <svg viewBox="0 0 1920 295" fill="none" xmlns="http://www.w3.org/2000/svg">
             <path class="wave-path" fill-rule="evenodd" clip-rule="evenodd"
                 d="M1920 295V202.758C1906.48 131.342 1843.63 77.168 1768.34 77.168C1739.37 77.168 1711.54 85.1814 1687.4 100.128C1650.68 38.4074 1584.56 0 1511.11 0C1412.1 0 1329.2 70.2842 1309.68 163.577C1294.03 136.928 1265.08 119 1232 119C1215.11 119 1198.88 123.673 1184.8 132.389C1163.39 96.397 1124.83 74 1082 74C1022.17 74 972.422 118.018 963.444 175.369C947.459 160.855 926.246 152 903 152C886.11 152 869.88 156.673 855.803 165.389C834.387 129.397 795.832 107 753 107C710.158 107 672.487 129.569 651.251 163.442C635.542 150.075 615.199 142 593 142C576.11 142 559.88 146.673 545.803 155.389C524.387 119.397 485.832 97 443 97C400.012 97 362.23 119.723 341.034 153.789C324.552 132.631 298.841 119 270 119C253.11 119 236.88 123.673 222.803 132.389C201.387 96.397 162.832 74 120 74C53.8333 74 0.000244141 127.833 0.000244141 194C0.000244141 194.41 0.000244141 194.835 0.0152435 195.245L0.000244141 195.248V295H1920Z" />
         </svg>
     </div>
+    <!-- End Wave Shape -->
 
-    <!-- Why Choose Us -->
+    <!-- Start Why Choose Us -->
     <section class="bg-vs-secondary space-extra-bottom">
         <div class="container">
             <div class="row text-center text-lg-start">
@@ -1067,49 +1068,46 @@
                     <div class="feature-style2">
                         <div class="feature-img">
                             <div class="vs-circle"></div>
-                            <img src="assets/img/choose/choose-1-1.png" alt="image">
+                            <img src="assets/img/choose/core-values-1.webp" alt="image">
                         </div>
-                        <h3 class="feature-title h5"><a href="service-details.html" class="text-inherit">Learn And
-                                Play</a></h3>
-                        <p class="feature-text">Our goal is to carefully educate and develop children in a fun way.</p>
+                        <h3 class="feature-title h5"> Learn Through Play</h3>
+                        <p class="feature-text">Every tap and swipe leads to real-world learning. Kids don’t just play — they grow.</p>
                     </div>
                 </div>
                 <div class="col-md-6 col-xl-3">
                     <div class="feature-style2">
                         <div class="feature-img">
                             <div class="vs-circle"></div>
-                            <img src="assets/img/choose/choose-1-2.png" alt="image">
+                            <img src="assets/img/choose/core-values-2.webp" alt="image">
                         </div>
-                        <h3 class="feature-title h5"><a href="service-details.html" class="text-inherit">Great
-                                Teachers</a></h3>
-                        <p class="feature-text">Our goal is to carefully educate and develop children in a fun way.</p>
+                        <h3 class="feature-title h5">Inspired Educators</h3>
+                        <p class="feature-text">Our games are designed with early childhood experts, so every activity serves a purpose.</p>
                     </div>
                 </div>
                 <div class="col-md-6 col-xl-3">
                     <div class="feature-style2">
                         <div class="feature-img">
                             <div class="vs-circle"></div>
-                            <img src="assets/img/choose/choose-1-3.png" alt="image">
+                            <img src="assets/img/choose/core-values-3.webp" alt="image">
                         </div>
-                        <h3 class="feature-title h5"><a href="service-details.html" class="text-inherit">Family
-                                Environment</a></h3>
-                        <p class="feature-text">Our goal is to carefully educate and develop children in a fun way.</p>
+                        <h3 class="feature-title h5">Safe Family Space</h3>
+                        <p class="feature-text">No ads. No noise. Just secure and relaxing digital learning time for little minds.</p>
                     </div>
                 </div>
                 <div class="col-md-6 col-xl-3">
                     <div class="feature-style2">
                         <div class="feature-img">
                             <div class="vs-circle"></div>
-                            <img src="assets/img/choose/choose-1-4.png" alt="image">
+                            <img src="assets/img/choose/core-values-4.webp" alt="image">
                         </div>
-                        <h3 class="feature-title h5"><a href="service-details.html" class="text-inherit">Excellent
-                                Programmes</a></h3>
-                        <p class="feature-text">Our goal is to carefully educate and develop children in a fun way.</p>
+                        <h3 class="feature-title h5">Smart Simplicity</h3>
+                        <p class="feature-text">Each app teaches one powerful skill — no confusion, just focus.</p>
                     </div>
                 </div>
             </div>
         </div>
     </section>
+    <!-- End Why Choose Us -->
 
     <!-- Testimonial Area -->
     <section class="py-5">

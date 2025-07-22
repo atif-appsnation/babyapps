@@ -4,7 +4,7 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title>About Us - Baby Apps</title>
+    <title>Contact Us - Baby Apps</title>
     <meta name="description" content="Games for Preschool, Kindergarten and Primary">
     <meta name="keywords" content="Games for Preschool, Kindergarten and Primary">
     <meta name="robots" content="INDEX,FOLLOW">
@@ -23,7 +23,6 @@
 </head>
 
 <body>
-
 
     <!-- Start Preloader -->
     <div class="preloader">
@@ -44,18 +43,23 @@
                 <a href="index"><img src="assets/img/logo.svg" alt="Baby Apps"></a>
             </div>
             <div class="vs-mobile-menu">    
-                <li>
-                    <a href="index">Home</a>
-                </li>
-                <li>
-                    <a href="about">About Us</a>
-                </li>
-                <li>
-                    <a href="blog">Blogs</a>
-                </li>
-                <li>
-                    <a href="contact">Contact</a>
-                </li>
+                <ul>
+                    <li>
+                        <a href="index">Home</a>
+                    </li>
+                    <li>
+                        <a href="about-us">About Us</a>
+                    </li>
+                    <li>
+                        <a href="blog">Blog</a>
+                    </li>
+                    <li>
+                        <a href="video">Videos</a>
+                    </li>
+                    <li>
+                        <a href="contact-us">Contact Us</a>
+                    </li>
+                </ul>
             </div>
         </div>
     </div>
@@ -208,13 +212,16 @@
                                         <a href="index">Home</a>
                                     </li>
                                     <li>
-                                        <a href="about">About Us</a>
+                                        <a href="about-us">About Us</a>
                                     </li>
                                     <li>
                                         <a href="blog">Blogs</a>
                                     </li>
                                     <li>
-                                        <a href="contact">Contact</a>
+                                        <a href="video">Videos</a>
+                                    </li>
+                                    <li>
+                                        <a href="contact-us">Contact Us</a>
                                     </li>
                                 </ul>
                             </nav>
@@ -230,6 +237,7 @@
             </div>
         </div>
     </header>
+    <!-- End Header -->
 
     <!-- Start Breadcumb -->
     <div class="breadcumb-wrapper" data-bg-src="assets/img/breadcumb/breadcumb-bg.jpg">
@@ -248,7 +256,7 @@
     </div>
     <!-- End Breadcumb -->
     
-    <!-- About Area -->
+    <!-- Start About Area -->
     <section class="space-top space-extra-bottom">
         <div class="container">
             <div class="row align-items-center justify-content-between flex-row-reverse">
@@ -280,8 +288,9 @@
             </div>
         </div>
     </section>
+    <!-- End About Area -->
 
-    <!-- About Area -->
+    <!-- Start About Area -->
     <section class="space-extra-bottom">
         <div class="container">
             <div class="row gx-70">
@@ -313,8 +322,9 @@
             </div>
         </div>
     </section>
+    <!-- End About Area -->
     
-    <!-- Team Area -->
+    <!-- Start Team Area -->
     <section class="space-top space-extra-bottom bg-smoke">
         <div class="container">
             <div class="title-area text-center">
@@ -373,8 +383,9 @@
             </div>
         </div>
     </section>
+    <!-- Start Team Area -->
 
-    <!-- Feature Area  -->
+    <!-- Start Feature Area -->
     <section class="space-top space-extra-bottom">
         <div class="container">
             <div class="title-area text-center">
@@ -462,8 +473,9 @@
             </div>
         </div>
     </section>
+    <!-- Start Feature Area -->
     
-    <!-- Counter Area -->
+    <!-- Start Counter Area -->
     <div class="space-extra-bottom">
         <div class="container">
             <div class="row justify-content-between">
@@ -513,10 +525,32 @@
                 </div>
             </div>
         </div>
-    </div><!--
-    Why Choose Us
-    -->
-    <section class="bg-vs-secondary space-top space-extra-bottom">
+    </div>
+    <!-- End Counter Area -->
+
+    <!-- Start History Area -->
+    <section class=" space-top space-extra-bottom">
+        <div class="container">
+            <div class="title-area text-center">
+                <span class="sec-subtitle">Our Journey</span>
+                <h2 class="sec-title">From One App to a World of Learning</h2>
+                <p>This year marks a huge milestone for BabyApps – every game we planned is now live! 🎉 From shadow matching puzzles to brain-boosting activities, each app is carefully crafted to blend fun with early education. We’re just getting started. More creativity, more innovation – coming your way! </p>
+            </div>
+        </div>
+    </section>
+    <!-- End History Area -->
+    
+    <!-- Start Wave Shape -->
+    <div class="vs-wave-shape">
+        <svg viewBox="0 0 1920 295" fill="none" xmlns="http://www.w3.org/2000/svg">
+            <path class="wave-path" fill-rule="evenodd" clip-rule="evenodd"
+                d="M1920 295V202.758C1906.48 131.342 1843.63 77.168 1768.34 77.168C1739.37 77.168 1711.54 85.1814 1687.4 100.128C1650.68 38.4074 1584.56 0 1511.11 0C1412.1 0 1329.2 70.2842 1309.68 163.577C1294.03 136.928 1265.08 119 1232 119C1215.11 119 1198.88 123.673 1184.8 132.389C1163.39 96.397 1124.83 74 1082 74C1022.17 74 972.422 118.018 963.444 175.369C947.459 160.855 926.246 152 903 152C886.11 152 869.88 156.673 855.803 165.389C834.387 129.397 795.832 107 753 107C710.158 107 672.487 129.569 651.251 163.442C635.542 150.075 615.199 142 593 142C576.11 142 559.88 146.673 545.803 155.389C524.387 119.397 485.832 97 443 97C400.012 97 362.23 119.723 341.034 153.789C324.552 132.631 298.841 119 270 119C253.11 119 236.88 123.673 222.803 132.389C201.387 96.397 162.832 74 120 74C53.8333 74 0.000244141 127.833 0.000244141 194C0.000244141 194.41 0.000244141 194.835 0.0152435 195.245L0.000244141 195.248V295H1920Z" />
+        </svg>
+    </div>
+    <!-- End Wave Shape -->
+
+    <!-- Start Why Choose Us -->
+    <section class="bg-vs-secondary space-extra-bottom">
         <div class="container">
             <div class="row text-center text-lg-start">
                 <div class="col-lg-5 col-xl-6 mb-n4 mb-lg-0">
@@ -538,52 +572,49 @@
                     <div class="feature-style2">
                         <div class="feature-img">
                             <div class="vs-circle"></div>
-                            <img src="assets/img/choose/choose-1-1.png" alt="image">
+                            <img src="assets/img/choose/core-values-1.webp" alt="image">
                         </div>
-                        <h3 class="feature-title h5"><a href="service-details.html" class="text-inherit">Learn And
-                                Play</a></h3>
-                        <p class="feature-text">Our goal is to carefully educate and develop children in a fun way.</p>
+                        <h3 class="feature-title h5"> Learn Through Play</h3>
+                        <p class="feature-text">Every tap and swipe leads to real-world learning. Kids don’t just play — they grow.</p>
                     </div>
                 </div>
                 <div class="col-md-6 col-xl-3">
                     <div class="feature-style2">
                         <div class="feature-img">
                             <div class="vs-circle"></div>
-                            <img src="assets/img/choose/choose-1-2.png" alt="image">
+                            <img src="assets/img/choose/core-values-2.webp" alt="image">
                         </div>
-                        <h3 class="feature-title h5"><a href="service-details.html" class="text-inherit">Great
-                                Teachers</a></h3>
-                        <p class="feature-text">Our goal is to carefully educate and develop children in a fun way.</p>
+                        <h3 class="feature-title h5">Inspired Educators</h3>
+                        <p class="feature-text">Our games are designed with early childhood experts, so every activity serves a purpose.</p>
                     </div>
                 </div>
                 <div class="col-md-6 col-xl-3">
                     <div class="feature-style2">
                         <div class="feature-img">
                             <div class="vs-circle"></div>
-                            <img src="assets/img/choose/choose-1-3.png" alt="image">
+                            <img src="assets/img/choose/core-values-3.webp" alt="image">
                         </div>
-                        <h3 class="feature-title h5"><a href="service-details.html" class="text-inherit">Family
-                                Environment</a></h3>
-                        <p class="feature-text">Our goal is to carefully educate and develop children in a fun way.</p>
+                        <h3 class="feature-title h5">Safe Family Space</h3>
+                        <p class="feature-text">No ads. No noise. Just secure and relaxing digital learning time for little minds.</p>
                     </div>
                 </div>
                 <div class="col-md-6 col-xl-3">
                     <div class="feature-style2">
                         <div class="feature-img">
                             <div class="vs-circle"></div>
-                            <img src="assets/img/choose/choose-1-4.png" alt="image">
+                            <img src="assets/img/choose/core-values-4.webp" alt="image">
                         </div>
-                        <h3 class="feature-title h5"><a href="service-details.html" class="text-inherit">Excellent
-                                Programmes</a></h3>
-                        <p class="feature-text">Our goal is to carefully educate and develop children in a fun way.</p>
+                        <h3 class="feature-title h5">Smart Simplicity</h3>
+                        <p class="feature-text">Each app teaches one powerful skill — no confusion, just focus.</p>
                     </div>
                 </div>
             </div>
         </div>
-    </section><!--
-    Gallery Area
-    -->
-    <section class=" space-top space-extra-bottom">
+    </section>
+    <!-- End Why Choose Us -->
+    
+    <!-- Gallery Area  -->
+    <!-- <section class=" space-top space-extra-bottom">
         <div class="container">
             <div class="row justify-content-center">
                 <div class="col-xl-6">
@@ -655,10 +686,10 @@
                 </div>
             </div>
         </div>
-    </section><!--
-    Testimonial Area
-    -->
-    <section class=" space-extra-bottom">
+    </section> -->
+    
+    <!-- Testimonial Area -->
+    <section class="space-top space-extra-bottom">
         <div class="container">
             <div class="row justify-content-between text-center text-md-start">
                 <div class="col-md-auto">
@@ -724,10 +755,10 @@
                 </div>
             </div>
         </div>
-    </section><!--
-    Instagram Posts
-    -->
-    <section class=" space-bottom">
+    </section>
+    
+    <!-- Instagram Posts -->
+    <!-- <section class=" space-bottom">
         <div class="container">
             <div class="title-area text-center">
                 <h2 class="sec-title">Follow @instagram</h2>
@@ -799,19 +830,50 @@
                 </div>
             </div>
         </div>
-    </section><!--
-			Footer Area
-	-->
-    <footer class="footer-wrapper footer-layout1" data-bg-src="assets/img/bg/footer-bg-1-1.png">
-        <div class="footer-top">
-            <div class="container">
-                <div class="row gx-60 gy-4 text-center text-lg-start justify-content-between align-items-center">
-                    <div class="col-lg"><a href="index"><img src="assets/img/logo-2.svg" alt="logo"></a></div>
-                    <div class="col-lg-auto">
-                        <h3 class="h4 mb-0 text-white"><img src="assets/img/icon/check-list.svg" alt="icon"
-                                class="me-2"> Enrol your child in a Session now!</h3>
+    </section> -->
+
+    <!-- Start Wave Shape -->
+    <div class="vs-wave-shape  ">
+        <svg viewBox="0 0 1920 295" fill="none" xmlns="http://www.w3.org/2000/svg">
+            <path class="wave-path" fill-rule="evenodd" clip-rule="evenodd"
+                d="M1920 295V202.758C1906.48 131.342 1843.63 77.168 1768.34 77.168C1739.37 77.168 1711.54 85.1814 1687.4 100.128C1650.68 38.4074 1584.56 0 1511.11 0C1412.1 0 1329.2 70.2842 1309.68 163.577C1294.03 136.928 1265.08 119 1232 119C1215.11 119 1198.88 123.673 1184.8 132.389C1163.39 96.397 1124.83 74 1082 74C1022.17 74 972.422 118.018 963.444 175.369C947.459 160.855 926.246 152 903 152C886.11 152 869.88 156.673 855.803 165.389C834.387 129.397 795.832 107 753 107C710.158 107 672.487 129.569 651.251 163.442C635.542 150.075 615.199 142 593 142C576.11 142 559.88 146.673 545.803 155.389C524.387 119.397 485.832 97 443 97C400.012 97 362.23 119.723 341.034 153.789C324.552 132.631 298.841 119 270 119C253.11 119 236.88 123.673 222.803 132.389C201.387 96.397 162.832 74 120 74C53.8333 74 0.000244141 127.833 0.000244141 194C0.000244141 194.41 0.000244141 194.835 0.0152435 195.245L0.000244141 195.248V295H1920Z" />
+        </svg>
+    </div>
+    <!-- End Wave Shape -->
+   
+    <!-- Start Footer Area -->
+    <footer class="footer-wrapper footer-layout3">
+        <div class="shape-mockup jump-reverse d-none d-xxxl-block" data-right="0" data-top="0">
+            <img src="assets/img/shape/f-s-3-1.png" alt="">
+        </div>
+        <div class="shape-mockup jump d-none d-xxxl-block" data-left="0" data-top="-2%">
+            <img src="assets/img/shape/f-s-3-2.png" alt="">
+        </div>
+        <div class="container">
+            <div class="footer-top">
+                <div class="row justify-content-center justify-content-lg-between align-items-center gy-4">
+                    <div class="col-lg-6 col-xl-9">
+                        <div class="media-style2">
+                            <div class="media-icon">
+                                <i class="fas fa-gamepad fa-4x"></i>
+                            </div>
+                            <div class="media-body">
+                                <p class="media-title">
+                                    Download Games from App Store & Play Store
+                                </p>
+                            </div>
+                        </div>
                     </div>
-                    <div class="col-lg-auto"><a href="contact.html" class="vs-btn">Start Registration</a></div>
+                    <div class="col-lg-6 col-xl-3">
+                        <div class="d-flex">
+                            <a href="#" target="_blank">
+                                <img src="assets/img/app-store.webp" class="img-fluid" alt="App Store">
+                            </a>
+                            <a href="#" target="_blank" class="ms-2">
+                                <img src="assets/img/play-store.webp" class="img-fluid" alt="Play Store">
+                            </a>
+                        </div>
+                    </div>
                 </div>
             </div>
         </div>
@@ -821,68 +883,46 @@
                     <div class="col-lg-4">
                         <div class="widget footer-widget">
                             <div class="widget-about">
-                                <h3 class="mt-n2">Giving your child the best start in life</h3>
-                                <p class="map-link"><img src="assets/img/icon/map.svg" alt="svg">First Floor, 10A
-                                    Chandos Street London New Town W1G 9LE</p>
-                                <div class="sidebar-gallery">
-                                    <div class="gallery-thumb">
-                                        <img src="assets/img/widget/gal-2-1.jpg" alt="Gallery Image" class="w-100">
-                                        <a href="assets/img/widget/gal-2-1.jpg" class="popup-image gal-btn"><i
-                                                class="fal fa-plus"></i></a>
-                                    </div>
-                                    <div class="gallery-thumb">
-                                        <img src="assets/img/widget/gal-2-2.jpg" alt="Gallery Image" class="w-100">
-                                        <a href="assets/img/widget/gal-2-2.jpg" class="popup-image gal-btn"><i
-                                                class="fal fa-plus"></i></a>
-                                    </div>
-                                    <div class="gallery-thumb">
-                                        <img src="assets/img/widget/gal-2-3.jpg" alt="Gallery Image" class="w-100">
-                                        <a href="assets/img/widget/gal-2-3.jpg" class="popup-image gal-btn"><i
-                                                class="fal fa-plus"></i></a>
-                                    </div>
+                                <div class="footer-logo">
+                                    <img src="assets/img/baby-apps-logo.webp" alt="Baby Apps">
                                 </div>
+                                <p class="mb-0">We are constantly expanding the range of services offered, taking care of children of all ages.</p>
                             </div>
                         </div>
                     </div>
                     <div class="col-md-6 col-lg-4">
                         <div class="widget footer-widget">
-                            <h3 class="widget_title">Get In Touch</h3>
-                            <div>
-                                <p class="footer-text">Monday to Friday: <span class="time">8.30am – 02.00pm</span></p>
-                                <p class="footer-text">Saturday, Sunday: <span class="time">Close</span></p>
-                                <p class="footer-info"><i class="fal fa-envelope"></i>Email: <a
-                                        href="mailto:user@domainname.com">user@domainname.com</a></p>
-                                <p class="footer-info"><i class="fas fa-mobile-alt"></i>Phone: <a
-                                        href="tel:+4402076897888">+44 (0) 207 689 7888</a></p>
+                            <h3 class="widget_title">Our Office</h3>
+                            <div class="vs-widget-about">
+                                <p class="map-link mb-2 pb-1">3415 S Sepulveda Blvd #1100, Los Angeles, CA 90034, United States</p>
+                                <p class="footer-call">
+                                    <a class="text-inherit" href="tel:+13237989803"> +1 (323) 798-9803</a>
+                                </p>
+                                <p class="footer-call">
+                                    <a class="text-inherit" href="mailto:contact@babyapps.kids"> contact@babyapps.kids</a>
+                                </p>
                             </div>
                         </div>
                     </div>
                     <div class="col-md-6 col-lg-4">
-                        <div class="widget widget_nav_menu  footer-widget">
-                            <h3 class="widget_title">Useful Services</h3>
-                            <div class="menu-all-pages-container footer-menu">
-                                <ul class="menu">
-                                    <li><a href="#">Volunteer</a></li>
-                                    <li><a href="#">Join or Renew</a></li>
-                                    <li><a href="#">Advocate</a></li>
-                                    <li><a href="#">Membership Options</a></li>
-                                    <li><a href="#">Partner</a></li>
-                                    <li><a href="#">Families Membership</a></li>
-                                    <li><a href="#">Sponsor</a></li>
-                                    <li><a href="#">Contact Us</a></li>
-                                    <li><a href="#">Advertise</a></li>
-                                </ul>
+                        <!-- <div class="widget footer-widget">
+                            <h3 class="widget_title">National Campus</h3>
+                            <div class="vs-widget-about">
+                                <p class="map-link mb-2 pb-1">First Floor, 10A Chandos Street London New Town W1G 9LE</p>
+                                <p class="footer-call">
+                                    <a class="text-inherit" href="tel:+4402076897888">+44 (0) 207 689 7888</a>
+                                </p>
                             </div>
-                        </div>
+                        </div> -->
                     </div>
                 </div>
             </div>
         </div>
-        <div class="copyright-wrap">
-            <div class="container">
+        <div class="container">
+            <div class="copyright-wrap">
                 <div class="row flex-row-reverse gy-3 justify-content-between align-items-center">
                     <div class="col-lg-auto">
-                        <div class="footer-social">
+                        <div class="vs-social">
                             <a href="#"><i class="fab fa-facebook-f"></i></a>
                             <a href="#"><i class="fab fa-twitter"></i></a>
                             <a href="#"><i class="fab fa-linkedin-in"></i></a>
@@ -890,40 +930,40 @@
                         </div>
                     </div>
                     <div class="col-lg-auto">
-                        <p class="copyright-text ">Copyright &copy; 2023 <a href="index">Kiddino</a>. All Rights
-                            Reserved By <a href="https://themeforest.net/user/vecuro_themes">Vecuro</a></p>
+                        <p class="copyright-text text-white">&copy; Copyright 2025 <a href="index.php">Baby Apps</a>. All Rights Reserved By <a href="https://appexgames.co/" target="_blank">Appex Games</a></p>
                     </div>
                 </div>
             </div>
         </div>
-    </footer> <!-- Scroll To Top -->
-    <a href="#" class="scrollToTop scroll-btn"><i class="far fa-arrow-up"></i></a>
+    </footer>
+    <!-- End Footer Area -->
+    
+    <!-- Start Scroll To Top -->
+    <a href="#" class="scrollToTop scroll-btn">
+        <i class="far fa-arrow-up"></i>
+    </a>
+    <!-- End Scroll To Top -->
 
-    <!--********************************
-			Code End  Here 
-	******************************** -->
+     <div class="gif-character left" id="char1">
+        <img src="assets/img/gif/rozi.gif" width="200" alt="Character 1">
+    </div>
 
-    <!--
-        All Js File
-     -->
-    <!-- Jquery -->
+    <div class="gif-character right" id="char2">
+        <img src="assets/img/gif/luqas.gif" width="200" alt="Character 2">
+    </div>
+
+    <div class="gif-character center" id="char3">
+        <img src="assets/img/gif/nico.gif" width="200" alt="Character 3">
+    </div>
+
     <script src="assets/js/vendor/jquery-3.6.0.min.js"></script>
-    <!-- Slick Slider -->
     <script src="assets/js/slick.min.js"></script>
-    <!-- <script src="assets/js/app.min.js"></script> -->
-
-    <!-- jquery ui -->
     <script src="assets/js/jquery-ui.min.js"></script>
-    <!-- Bootstrap -->
     <script src="assets/js/bootstrap.min.js"></script>
-    <!-- Magnific Popup -->
     <script src="assets/js/jquery.magnific-popup.min.js"></script>
-    <!-- Isotope Filter -->
     <script src="assets/js/imagesloaded.pkgd.min.js"></script>
     <script src="assets/js/isotope.pkgd.min.js"></script>
-    <!-- Main Js File -->
     <script src="assets/js/main.js"></script>
-
 
 </body>
 
