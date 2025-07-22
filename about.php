@@ -4,211 +4,153 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title>Kiddino - Children School & Kindergarten HTML Template - About Us</title>
-    <meta name="author" content="Vecuro">
-    <meta name="description" content="Kiddino - Children School & Kindergarten HTML Template">
-    <meta name="keywords" content="Kiddino - Children School & Kindergarten HTML Template">
+    <title>About Us - Baby Apps</title>
+    <meta name="description" content="Games for Preschool, Kindergarten and Primary">
+    <meta name="keywords" content="Games for Preschool, Kindergarten and Primary">
     <meta name="robots" content="INDEX,FOLLOW">
-
-    <!-- Mobile Specific Metas -->
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-
-    <!-- Favicons - Place favicon.ico in the root directory -->
-    <link rel="shortcut icon" href="assets/img/favicon.ico" type="image/x-icon">
-    <link rel="icon" href="assets/img/favicon.ico" type="image/x-icon">
-
-    <!--==============================
-	  Google Fonts
-	============================== -->
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link
-        href="https://fonts.googleapis.com/css2?family=Fredoka:wght@400;500;600;700&family=Jost:wght@400;500&display=swap"
-        rel="stylesheet">
-
-
-    <!--==============================
-	    All CSS File
-	============================== -->
-    <!-- Bootstrap -->
+    <link rel="shortcut icon" href="assets/img/baby-apps-logo.webp" type="image/x-icon">
+    <link rel="icon" href="assets/img/baby-apps-logo.webp" type="image/x-icon">
+    <link href="assets/css/font.css" rel="stylesheet">
     <link rel="stylesheet" href="assets/css/bootstrap.min.css">
-    <!-- <link rel="stylesheet" href="assets/css/app.min.css"> -->
-    <!-- Fontawesome Icon -->
     <link rel="stylesheet" href="assets/css/fontawesome.min.css">
-    <!-- Layerslider -->
     <link rel="stylesheet" href="assets/css/layerslider.min.css">
-    <!-- Magnific Popup -->
     <link rel="stylesheet" href="assets/css/magnific-popup.min.css">
-    <!-- Slick Slider -->
     <link rel="stylesheet" href="assets/css/slick.min.css">
-    <!-- Theme Custom CSS -->
+    <link rel="stylesheet" href="assets/css/slick-theme.css">
     <link rel="stylesheet" href="assets/css/style.css">
-
+    <link rel="stylesheet" href="assets/css/responsive.css">
 </head>
 
 <body>
 
 
-    <!--[if lte IE 9]>
-    	<p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="https://browsehappy.com/">upgrade your browser</a> to improve your experience and security.</p>
-  <![endif]-->
-
-
-
-    <!--********************************
-   		Code Start From Here 
-	******************************** -->
-
-
-
-
-    <!--==============================
-     Preloader
-  ==============================-->
-    <div class="preloader  ">
+    <!-- Start Preloader -->
+    <div class="preloader">
         <button class="vs-btn preloaderCls">Cancel Preloader </button>
         <div class="preloader-inner">
-            <div class="loader"></div>
+            <div class="loader">
+                <img src="assets/img/loader.gif" alt="Loader" class="img-fluid">
+            </div>
         </div>
-    </div><!--==============================
-    Mobile Menu
-  ============================== -->
+    </div>
+    <!-- End Preloader -->
+
+    <!-- Start Mobile Menu -->
     <div class="vs-menu-wrapper">
         <div class="vs-menu-area text-center">
             <button class="vs-menu-toggle"><i class="fal fa-times"></i></button>
             <div class="mobile-logo">
-                <a href="index"><img src="assets/img/logo.svg" alt="Kiddino"></a>
+                <a href="index"><img src="assets/img/logo.svg" alt="Baby Apps"></a>
             </div>
-            <div class="vs-mobile-menu">
-                <ul>
-                    <li class="menu-item-has-children">
-                        <a href="index">Demo</a>
-                        <ul class="sub-menu">
-                            <li><a href="index">Demo Style 1</a></li>
-                            <li><a href="index-2.html">Demo Style 2</a></li>
-                            <li><a href="index-3.html">Demo Style 3</a></li>
-                            <li><a href="index-4.html">Demo Style 4</a></li>
-                            <li><a href="index-5.html">Demo Style 5</a></li>
-                            <li><a href="index-6.html">Demo Style 6</a></li>
-                            <li><a href="index-7.html">Demo Style 7</a></li>
-                            <li><a href="index-8.html">Demo Style 8</a></li>
-                        </ul>
-                    </li>
-                    <li>
-                        <a href="about.html">About Us</a>
-                    </li>
-                    <li class="menu-item-has-children">
-                        <a href="class.html">Classes</a>
-                        <ul class="sub-menu">
-                            <li><a href="class.html">Class Style 1</a></li>
-                            <li><a href="class-2.html">Class Style 2</a></li>
-                            <li><a href="class-details.html">Class Details</a></li>
-                        </ul>
-                    </li>
-                    <li class="menu-item-has-children">
-                        <a href="blog.html">Blog</a>
-                        <ul class="sub-menu">
-                            <li><a href="blog.html">Blog</a></li>
-                            <li><a href="blog-details.html">Blog Details</a></li>
-                        </ul>
-                    </li>
-                    <li class="menu-item-has-children">
-                        <a href="#">Pages</a>
-                        <ul class="sub-menu">
-                            <li><a href="service.html">Service</a></li>
-                            <li><a href="service-details.html">Service Details</a></li>
-                            <li><a href="team.html">Team</a></li>
-                            <li><a href="team-details.html">Team Details</a></li>
-                            <li><a href="event-details.html">Event Details</a></li>
-                            <li><a href="gallery.html">Gallery</a></li>
-                            <li><a href="price-plan.html">Price Plan</a></li>
-                            <li><a href="faq.html">FAQ</a></li>
-                            <li><a href="shop.html">Shop</a></li>
-                            <li><a href="shop-details.html">Shop Details</a></li>
-                            <li><a href="cart.html">Shopping Cart</a></li>
-                            <li><a href="checkout.html">Checkout</a></li>
-                            <li><a href="registration.html">Registration</a></li>
-                            <li><a href="error.html">Error Page</a></li>
-                        </ul>
-                    </li>
-                    <li>
-                        <a href="contact.html">Contact Us</a>
-                    </li>
-                </ul>
+            <div class="vs-mobile-menu">    
+                <li>
+                    <a href="index">Home</a>
+                </li>
+                <li>
+                    <a href="about">About Us</a>
+                </li>
+                <li>
+                    <a href="blog">Blogs</a>
+                </li>
+                <li>
+                    <a href="contact">Contact</a>
+                </li>
             </div>
         </div>
-    </div><!--==============================
-    Sidemenu
-============================== -->
-    <div class="sidemenu-wrapper d-none d-lg-block  ">
+    </div>
+    <!-- End Mobile Menu -->
+
+    <!-- Start Sidemenu -->
+    <div class="sidemenu-wrapper d-none d-lg-block">
         <div class="sidemenu-content">
             <button class="closeButton sideMenuCls"><i class="far fa-times"></i></button>
-            <div class="widget  ">
+            <div class="widget">
                 <div class="widget-about">
-                    <div class="footer-logo"><img src="assets/img/logo.svg" alt="Kiddino"></div>
-                    <p class="mb-0">We are constantly expanding the range of services offered, taking care of children
-                        of all ages.</p>
+                    <div class="footer-logo">
+                        <img src="assets/img/baby-apps-logo.webp" alt="Baby Apps">
+                    </div>
+                    <p class="mb-0">We are offering games for children of all ages.</p>
                 </div>
             </div>
-            <div class="widget  ">
+            <div class="widget">
                 <h3 class="widget_title">Get In Touch</h3>
                 <div>
-                    <p class="footer-text">Monday to Friday: <span class="time">8.30am – 02.00pm</span></p>
-                    <p class="footer-text">Saturday, Sunday: <span class="time">Close</span></p>
-                    <p class="footer-info"><i class="fal fa-envelope"></i>Email: <a
-                            href="mailto:user@domainname.com">user@domainname.com</a></p>
-                    <p class="footer-info"><i class="fas fa-mobile-alt"></i>Phone: <a href="tel:+4402076897888">+44 (0)
-                            207 689 7888</a></p>
+                    <p class="footer-text">
+                        <img src="assets/img/app-store.webp" class="w-50" alt="App Store">
+                    </p>
+                    <p class="footer-text">
+                        <img src="assets/img/play-store.webp" class="w-50" alt="Play Store">
+                    </p>
+                    <p class="footer-info">
+                        <i class="fal fa-envelope"></i>Email:
+                        <a href="mailto:info@babyapps.kids">info@babyapps.kids</a>
+                    </p>
+                    <p class="footer-info">
+                        <i class="fas fa-mobile-alt"></i>Phone:
+                        <a href="tel:+4402076897888">+44 (0) 207 689 7888</a>
+                    </p>
                 </div>
             </div>
-            <div class="widget  ">
+            <div class="widget">
                 <h3 class="widget_title">Latest News</h3>
                 <div class="recent-post-wrap">
                     <div class="recent-post">
                         <div class="media-img">
-                            <a href="blog-details.html"><img src="assets/img/blog/recent-post-1-1.jpg"
-                                    alt="Blog Image"></a>
+                            <a href="blog-details.html">
+                                <img src="assets/img/blog/recent-post-1-1.jpg" alt="Blog Image">
+                            </a>
                         </div>
                         <div class="media-body">
                             <div class="recent-post-meta">
                                 <a href="blog.html"><i class="far fa-calendar-alt"></i>December 3, 2022</a>
                             </div>
-                            <h4 class="post-title"><a class="text-inherit" href="blog-details.html">A very warm welcome
-                                    to our new Treasurer</a></h4>
+                            <h4 class="post-title">
+                                <a class="text-inherit" href="blog-details.html">A very warm welcome to our new Treasurer</a>
+                                </h4>
                         </div>
                     </div>
                     <div class="recent-post">
                         <div class="media-img">
-                            <a href="blog-details.html"><img src="assets/img/blog/recent-post-1-2.jpg"
-                                    alt="Blog Image"></a>
+                            <a href="blog-details.html">
+                                <img src="assets/img/blog/recent-post-1-2.jpg" alt="Blog Image">
+                            </a>
                         </div>
                         <div class="media-body">
                             <div class="recent-post-meta">
-                                <a href="blog.html"><i class="far fa-calendar-alt"></i>February 15, 2022</a>
+                                <a href="blog.html">
+                                    <i class="far fa-calendar-alt"></i>February 15, 2022
+                                </a>
                             </div>
-                            <h4 class="post-title"><a class="text-inherit" href="blog-details.html">German kinder and
-                                    garten mean child</a></h4>
+                            <h4 class="post-title">
+                                <a class="text-inherit" href="blog-details.html">German kinder and garten mean child</a>
+                            </h4>
                         </div>
                     </div>
                     <div class="recent-post">
                         <div class="media-img">
-                            <a href="blog-details.html"><img src="assets/img/blog/recent-post-1-3.jpg"
-                                    alt="Blog Image"></a>
+                            <a href="blog-details.html">
+                                <img src="assets/img/blog/recent-post-1-3.jpg" alt="Blog Image">
+                            </a>
                         </div>
                         <div class="media-body">
                             <div class="recent-post-meta">
-                                <a href="blog.html"><i class="far fa-calendar-alt"></i>Augest 20, 2022</a>
+                                <a href="blog.html">
+                                    <i class="far fa-calendar-alt"></i>Augest 20, 2022
+                                </a>
                             </div>
-                            <h4 class="post-title"><a class="text-inherit" href="blog-details.html">English uses term to
-                                    refer to the earliest</a></h4>
+                            <h4 class="post-title">
+                                <a class="text-inherit" href="blog-details.html">English uses term to refer to the earliest</a>
+                            </h4>
                         </div>
                     </div>
                 </div>
             </div>
         </div>
-    </div><!--==============================
-    Popup Search Box
-    ============================== -->
+    </div>
+    <!-- End Sidemenu -->
+    
+    <!-- Start Popup Search Box -->
     <div class="popup-search-box d-none d-lg-block  ">
         <button class="searchClose"><i class="fal fa-times"></i></button>
         <form action="#">
@@ -216,30 +158,32 @@
             <button type="submit"><i class="fal fa-search"></i></button>
         </form>
     </div>
-    <!--==============================
-        Header Area
-    ==============================-->
+    <!-- End Popup Search Box -->
+
+    <!-- Start Header -->
     <header class="vs-header header-layout1">
         <div class="header-top">
             <div class="container">
                 <div class="row justify-content-between align-items-center">
                     <div class="col-auto d-none d-lg-block">
-                        <div class="header-links style-white">
-                            <ul>
-                                <li><a href="registration.html"><i class="far fa-user-circle"></i>Login & Register</a>
-                                </li>
-                                <li><a href="contact.html" class="searchBoxTggler"><i class="far fa-search"></i>Search
-                                        Keyword</a></li>
-                            </ul>
+                        <div class="vs-social">
+                            <a href="#"><i class="fab fa-facebook-f"></i></a>
+                            <a href="#"><i class="fab fa-twitter"></i></a>
+                            <a href="#"><i class="fab fa-linkedin-in"></i></a>
+                            <a href="#"><i class="fab fa-youtube"></i></a>
                         </div>
                     </div>
                     <div class="col-lg-auto text-center">
                         <div class="header-links style2 style-white">
                             <ul>
-                                <li><i class="fas fa-envelope"></i>Email: <a
-                                        href="mailto:user@example.com">user@example.com</a></li>
-                                <li><i class="fas fa-mobile-alt"></i>Phone: <a href="tel:+4402076897888">+44 (0) 207 689
-                                        7888</a></li>
+                                <li>
+                                    <i class="fas fa-envelope"></i>Email:
+                                    <a href="mailto:contact@babyapps.kids">contact@babyapps.kids</a>
+                                </li>
+                                <li>
+                                    <i class="fas fa-mobile-alt"></i>Phone:
+                                    <a href="tel:+13237989803">+1 (323) 798-9803</a>
+                                </li>
                             </ul>
                         </div>
                     </div>
@@ -247,120 +191,48 @@
             </div>
         </div>
         <div class="sticky-wrap">
-            <div class="sticky-active">
+            <div class="">
                 <div class="container">
                     <div class="row gx-3 align-items-center justify-content-between">
                         <div class="col-8 col-sm-auto">
                             <div class="header-logo">
                                 <a href="index">
-                                    <img src="assets/img/logo.svg" alt="logo">
+                                    <img src="assets/img/baby-apps-logo.webp" alt="logo" class="logo">
                                 </a>
                             </div>
                         </div>
                         <div class="col text-end text-lg-center">
                             <nav class="main-menu menu-style1 d-none d-lg-block">
                                 <ul>
-                                    <li class="menu-item-has-children">
-                                        <a href="index">Demo</a>
-                                        <ul class="sub-menu">
-                                            <li><a href="index">Demo Style 1</a></li>
-                                            <li><a href="index-2.html">Demo Style 2</a></li>
-                                            <li><a href="index-3.html">Demo Style 3</a></li>
-                                            <li><a href="index-4.html">Demo Style 4</a></li>
-                                            <li><a href="index-5.html">Demo Style 5</a></li>
-                                            <li><a href="index-6.html">Demo Style 6</a></li>
-                                            <li><a href="index-7.html">Demo Style 7</a></li>
-                                            <li><a href="index-8.html">Demo Style 8</a></li>
-                                        </ul>
+                                    <li>
+                                        <a href="index">Home</a>
                                     </li>
                                     <li>
-                                        <a href="about.html">About Us</a>
-                                    </li>
-                                    <li class="menu-item-has-children">
-                                        <a href="class.html">Classes</a>
-                                        <ul class="sub-menu">
-                                            <li><a href="class.html">Class Style 1</a></li>
-                                            <li><a href="class-2.html">Class Style 2</a></li>
-                                            <li><a href="class-details.html">Class Details</a></li>
-                                        </ul>
-                                    </li>
-                                    <li class="menu-item-has-children">
-                                        <a href="blog.html">Blog</a>
-                                        <ul class="sub-menu">
-                                            <li><a href="blog.html">Blog</a></li>
-                                            <li><a href="blog-details.html">Blog Details</a></li>
-                                        </ul>
-                                    </li>
-                                    <li class="menu-item-has-children mega-menu-wrap">
-                                        <a href="#">Pages</a>
-                                        <ul class="mega-menu">
-                                            <li><a href="shop.html">Pagelist 1</a>
-                                                <ul>
-                                                    <li><a href="index">Demo Style 1</a></li>
-                                                    <li><a href="index-2.html">Demo Style 2</a></li>
-                                                    <li><a href="index-3.html">Demo Style 3</a></li>
-                                                    <li><a href="index-4.html">Demo Style 4</a></li>
-                                                    <li><a href="index-5.html">Demo Style 5</a></li>
-                                                    <li><a href="class.html">Class Style 1</a></li>
-                                                    <li><a href="class-2.html">Class Style 2</a></li>
-                                                </ul>
-                                            </li>
-                                            <li><a href="#">Pagelist 2</a>
-                                                <ul>
-                                                    <li><a href="class-details.html">Class Details</a></li>
-                                                    <li><a href="about.html">About Us</a></li>
-                                                    <li><a href="service.html">Service</a></li>
-                                                    <li><a href="service-details.html">Service Details</a></li>
-                                                    <li><a href="team.html">Team</a></li>
-                                                    <li><a href="team-details.html">Team Details</a></li>
-                                                    <li><a href="gallery.html">Gallery</a></li>
-                                                </ul>
-                                            </li>
-                                            <li><a href="#">Pagelist 3</a>
-                                                <ul>
-                                                    <li><a href="event-details.html">Event Details</a></li>
-                                                    <li><a href="shop.html">Shop</a></li>
-                                                    <li><a href="shop-details.html">Shop Details</a></li>
-                                                    <li><a href="cart.html">Shopping Cart</a></li>
-                                                    <li><a href="checkout.html">Checkout</a></li>
-                                                    <li><a href="price-plan.html">Price Plan</a></li>
-                                                    <li><a href="faq.html">FAQ</a></li>
-                                                </ul>
-                                            </li>
-                                            <li><a href="#">Pagelist 4</a>
-                                                <ul>
-                                                    <li><a href="blog.html">Blog</a></li>
-                                                    <li><a href="blog-details.html">Blog Details</a></li>
-                                                    <li><a href="registration.html">Registration</a></li>
-                                                    <li><a href="contact.html">Contact</a></li>
-                                                    <li><a href="error.html">Error Page</a></li>
-                                                </ul>
-                                            </li>
-                                        </ul>
+                                        <a href="about">About Us</a>
                                     </li>
                                     <li>
-                                        <a href="contact.html">Contact</a>
+                                        <a href="blog">Blogs</a>
+                                    </li>
+                                    <li>
+                                        <a href="contact">Contact</a>
                                     </li>
                                 </ul>
                             </nav>
                             <button class="vs-menu-toggle d-inline-block d-lg-none"><i class="fal fa-bars"></i></button>
                         </div>
-                        <div class="col-auto  d-none d-lg-block">
+                        <div class="col-auto d-none d-lg-block">
                             <div class="header-icons">
                                 <button class="simple-icon sideMenuToggler"><i class="far fa-bars"></i></button>
                             </div>
-                        </div>
-                        <div class="col-auto d-none d-xl-block">
-                            <a href="contact.html" class="vs-btn sideMenuToggler">Apply Today</a>
                         </div>
                     </div>
                 </div>
             </div>
         </div>
-    </header><!--==============================
-    Breadcumb
-============================== -->
-    <div class="breadcumb-wrapper " data-bg-src="assets/img/breadcumb/breadcumb-bg.jpg">
+    </header>
+
+    <!-- Start Breadcumb -->
+    <div class="breadcumb-wrapper" data-bg-src="assets/img/breadcumb/breadcumb-bg.jpg">
         <div class="container z-index-common">
             <div class="breadcumb-content">
                 <h1 class="breadcumb-title">About Us</h1>
@@ -373,31 +245,33 @@
                 </div>
             </div>
         </div>
-    </div><!--==============================
-   About Area  
-    ==============================-->
-    <section class=" space-top space-extra-bottom">
+    </div>
+    <!-- End Breadcumb -->
+    
+    <!-- About Area -->
+    <section class="space-top space-extra-bottom">
         <div class="container">
             <div class="row align-items-center justify-content-between flex-row-reverse">
                 <div class="col-lg-6 col-xl-auto text-center text-lg-end">
                     <div class="img-box2">
-                        <div class="transform-banner"><img src="assets/img/about/ab-2-1.jpg" alt="about"></div>
+                        <div class="transform-banner">
+                            <img src="assets/img/about/ab-2-1.jpg" alt="about">
+                        </div>
                         <div class="vs-circle jump"></div>
                     </div>
                 </div>
                 <div class="col-lg-6 text-center text-lg-start">
-                    <h2 class="sec-title me-xxl-5">Your child's best start in life</h2>
-                    <p class="sec-text col-xl-10 pe-4 mb-4">We are constantly expanding the range of services offered,
-                        taking children of all ages. Our goal is to carefully educate and develop a fun way. We strive
-                        to turn the learning process.</p>
+                    <h2 class="sec-title me-xxl-5">From One Parent’s Frustration To Thousands of Smiles</h2>
+                    <p class="sec-text col-xl-10 pe-4 mb-4">It started in 2023, when one of our founders couldn’t find a kids' game without loud ads, pop-ups, or questionable content. So we built our own.</p>
+                    <p class="sec-text col-xl-10 pe-4 mb-4">Today, Baby App Kids offers 25+ mobile games for ages 2–8 that teach ABCs, math, colours, matching, and more without any ads or distractions.</p>
+                    <p class="sec-text col-xl-10 pe-4 mb-4">Our mission is simple:</p>
                     <div class="row justify-content-center justify-content-lg-start text-start">
                         <div class="col-auto">
                             <div class="list-style1">
                                 <ul class="list-unstyled">
-                                    <li>Comprehensive reporting on individual achievement</li>
-                                    <li>Educational field trips and school presentations</li>
-                                    <li>Individual attention in a small-class setting</li>
-                                    <li>Learning program with after-school care</li>
+                                    <li>Make learning joyful</li>
+                                    <li>Keep games 100% kid-safe</li>
+                                    <li>Align every app with educational outcomes</li>
                                 </ul>
                             </div>
                         </div>
@@ -405,51 +279,43 @@
                 </div>
             </div>
         </div>
-    </section><!--==============================
-    About Area  
-    ==============================-->
-    <section class=" space-extra-bottom">
+    </section>
+
+    <!-- About Area -->
+    <section class="space-extra-bottom">
         <div class="container">
             <div class="row gx-70">
                 <div class="col-lg-6 text-center text-lg-end">
                     <div class="img-box2 style2">
-                        <div class="transform-banner"><img src="assets/img/about/ab-5-1.jpg" alt="about"></div>
+                        <div class="transform-banner">
+                            <img src="assets/img/about/ab-5-1.jpg" alt="about">
+                        </div>
                         <div class="vs-circle jump"></div>
                     </div>
                 </div>
                 <div class="col-lg-6 align-self-center text-center text-lg-start">
-                    <h2 class="sec-title pe-xxl-4">For every student, every classroom Real results.</h2>
-                    <p class="sec-text mb-4 pb-2 col-xxl-10">We are constantly expanding the range of services offered,
-                        taking children of all ages. Our goal is to carefully educate and develop a fun way. We strive
-                        to turn the learning process.</p>
-                    <p class="sec-subtitle2 mb-1">Sessions: Monday – Friday</p>
-                    <div class="row gx-50 justify-content-center justify-content-lg-start">
+                    <h2 class="sec-title pe-xxl-4">Safe by Design. Loved by Parents. Backed by Research</h2>
+                    <div class="row justify-content-center justify-content-lg-start text-start">
                         <div class="col-auto">
-                            <div class="info-style1">
-                                <p class="info-title">Morning:</p>
-                                <p class="info-text">9am – 12noon</p>
-                            </div>
-                        </div>
-                        <div class="col-auto">
-                            <div class="info-style1">
-                                <p class="info-title">Lunch:</p>
-                                <p class="info-text">12noon – 1pm</p>
-                            </div>
-                        </div>
-                        <div class="col-auto">
-                            <div class="info-style1">
-                                <p class="info-title">Afternoon:</p>
-                                <p class="info-text">1pm – 3.30pm</p>
+                            <div class="list-style1">
+                                <ul class="list-unstyled">
+                                    <li>Designed with early childhood teachers</li>
+                                    <li>No third-party ads, ever</li>
+                                    <li>Montessori-inspired games for discovery</li>
+                                    <li>Works offline, no Wi-Fi needed</li>
+                                    <li>Educator-reviewed and tested by kids</li>
+                                    <li>Updated monthly with bug-fixes & new content</li>
+                                </ul>
                             </div>
                         </div>
                     </div>
                 </div>
             </div>
         </div>
-    </section><!--==============================
-    Team Area
-    ==============================-->
-    <section class=" space-top space-extra-bottom bg-smoke">
+    </section>
+    
+    <!-- Team Area -->
+    <section class="space-top space-extra-bottom bg-smoke">
         <div class="container">
             <div class="title-area text-center">
                 <div class="sec-bubble">
@@ -457,20 +323,22 @@
                     <div class="bubble"></div>
                     <div class="bubble"></div>
                 </div>
-                <h2 class="sec-title">Qualified Teachers</h2>
-                <p class="sec-text">We are constantly expanding the range of services offered</p>
+                <h2 class="sec-title">Meet Our Team</h2>
             </div>
             <div class="row align-items-center">
                 <div class="col-lg-6">
                     <div class="team-style1">
                         <div class="team-img">
-                            <a href="team-details.html"><img src="assets/img/team/t-1-1.jpg" alt="team"></a>
+                            <a href="team-details.html">
+                                <img src="assets/img/team/t-1-1.jpg" alt="team">
+                            </a>
                         </div>
                         <div class="team-content">
-                            <h3 class="team-name h2"><a href="team-details.html" class="text-inherit">Katie Willmore</a>
+                            <h3 class="team-name h2">
+                                <a href="#" class="text-inherit">Waqar Ahmed</a>
                             </h3>
-                            <p class="team-degi">Principal and Manager</p>
-                            <a href="tel:+4402076897888" class="team-number">+44 (0) 207 689 7888</a>
+                            <p class="team-degi">Co-Founder & Curriculum Lead</p>
+                            <a href="tel:+13237989803" class="team-number">+1 (323) 798-9803</a>
                             <div class="vs-social">
                                 <a href="#"><i class="fab fa-facebook-f"></i></a>
                                 <a href="#"><i class="fab fa-twitter"></i></a>
@@ -480,93 +348,34 @@
                 </div>
                 <div class="col-sm-6 col-lg-3">
                     <div class="team-style2">
-                        <div class="team-img"><a href="team-details.html"><img src="assets/img/team/t-1-2.jpg"
-                                    alt="team"></a></div>
-                        <h3 class="team-name"><a class="text-inherit" href="team-details.html">Jessica Levis</a></h3>
+                        <div class="team-img">
+                            <a href="team-details.html">
+                                <img src="assets/img/team/t-1-2.jpg" alt="team">
+                            </a>
+                        </div>
+                        <h3 class="team-name">
+                            <a class="text-inherit" href="#">Andrew David</a>
+                        </h3>
                     </div>
                 </div>
                 <div class="col-sm-6 col-lg-3">
                     <div class="team-style2">
-                        <div class="team-img"><a href="team-details.html"><img src="assets/img/team/t-1-3.jpg"
-                                    alt="team"></a></div>
-                        <h3 class="team-name"><a class="text-inherit" href="team-details.html">Nomina Leione</a></h3>
-                    </div>
-                </div>
-            </div>
-            <div class="row text-center text-lg-start mt-lg-5 pt-4 align-items-center justify-content-between">
-                <div class="col-lg-8 col-xl-9">
-                    <div class="title-area mb-xl-0">
-                        <span class="sec-subtitle">learning by connecting practice</span>
-                        <h2 class="sec-title">Promoting high quality learning of Young Children</h2>
-                    </div>
-                </div>
-                <div class="col-lg-auto">
-                    <div class="sec-btns mb-0">
-                        <a href="contact.html" class="vs-btn">Start Registration</a>
+                        <div class="team-img">
+                            <a href="team-details.html">
+                                <img src="assets/img/team/t-1-3.jpg"alt="team">
+                            </a>
+                        </div>
+                        <h3 class="team-name">
+                            <a class="text-inherit" href="#">Salena john</a>
+                        </h3>
                     </div>
                 </div>
             </div>
         </div>
-    </section><!--==============================
-    History Area
-    ==============================-->
-    <section class=" space-top space-extra-bottom">
-        <div class="container">
-            <div class="title-area text-center">
-                <span class="sec-subtitle">Kindergarten SCHEDULE</span>
-                <h2 class="sec-title">Kindergarten History</h2>
-            </div>
-            <div class="row">
-                <div class="col-md-6 col-xl-3 feature-style4">
-                    <div class="feature-body">
-                        <span class="feature-year">1994</span>
-                        <h3 class="feature-title h5">opened its doors</h3>
-                        <p class="feature-text">We are constantly expanding the range of services offered, taking
-                            children of all ages. Our goal is to carefully educat.</p>
-                        <div class="feature-img">
-                            <a href="about.html"><img src="assets/img/feature/fe-2-1.jpg" alt="feature"></a>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-md-6 col-xl-3 feature-style4">
-                    <div class="feature-body">
-                        <span class="feature-year">2001</span>
-                        <h3 class="feature-title h5">High school physics</h3>
-                        <p class="feature-text">We are constantly expanding the range of services offered, taking
-                            children of all ages. Our goal is to carefully educat.</p>
-                        <div class="feature-img">
-                            <a href="about.html"><img src="assets/img/feature/fe-2-2.jpg" alt="feature"></a>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-md-6 col-xl-3 feature-style4">
-                    <div class="feature-body">
-                        <span class="feature-year">2008</span>
-                        <h3 class="feature-title h5">Get ready for 6th grade</h3>
-                        <p class="feature-text">We are constantly expanding the range of services offered, taking
-                            children of all ages. Our goal is to carefully educat.</p>
-                        <div class="feature-img">
-                            <a href="about.html"><img src="assets/img/feature/fe-2-3.jpg" alt="feature"></a>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-md-6 col-xl-3 feature-style4">
-                    <div class="feature-body">
-                        <span class="feature-year">2014</span>
-                        <h3 class="feature-title h5">Internet safety</h3>
-                        <p class="feature-text">We are constantly expanding the range of services offered, taking
-                            children of all ages. Our goal is to carefully educat.</p>
-                        <div class="feature-img">
-                            <a href="about.html"><img src="assets/img/feature/fe-2-4.jpg" alt="feature"></a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section><!--==============================
-    Feature Area  
-    ==============================-->
-    <section class=" space-extra-bottom">
+    </section>
+
+    <!-- Feature Area  -->
+    <section class="space-top space-extra-bottom">
         <div class="container">
             <div class="title-area text-center">
                 <div class="sec-bubble">
@@ -574,22 +383,25 @@
                     <div class="bubble"></div>
                     <div class="bubble"></div>
                 </div>
-                <h2 class="sec-title">Available Clubs</h2>
-                <p class="sec-text">We are constantly expanding the range of services offered</p>
+                <h2 class="sec-title">Learning Clubs – Choose Your Child’s Play Path</h2>
+                <p class="sec-text">We design every BabyApps™ club like a micro-learning journey — fun, focused, and age-appropriate.</p>
             </div>
             <div class="row justify-content-between align-items-center">
                 <div class="col-md-6 col-xl-auto order-2 order-xl-1">
                     <div class="feature-style3">
                         <div class="feature-img">
-                            <div class="img"><img src="assets/img/feature/fe-1-1.jpg" alt="feature"></div>
+                            <div class="img">
+                                <img src="assets/img/feature/fe-1-1.jpg" alt="feature">
+                            </div>
                         </div>
                         <div class="feature-body">
                             <h3 class="feature-title h4">Early Club</h3>
                             <div class="list-style2">
                                 <ul class="list-unstyled">
-                                    <li>Help parents get to work on time</li>
-                                    <li>Near the station</li>
-                                    <li>Children settled and ready to work</li>
+                                    <li>Designed for toddlers (ages 1–3).</li>
+                                    <li>Learn through sensory games.</li>
+                                    <li>Learn through baby sounds.</li>
+                                    <li>Learn through touch-responsive fun.</li>
                                 </ul>
                             </div>
                         </div>
@@ -602,9 +414,9 @@
                             <h3 class="feature-title h4">Lunch Club</h3>
                             <div class="list-style2">
                                 <ul class="list-unstyled">
-                                    <li>Help parents get to work on time</li>
-                                    <li>Near the station</li>
-                                    <li>Children settled and ready to work</li>
+                                    <li>For relaxed midday moments.</li>
+                                    <li>Art scribbles.</li>
+                                    <li>Soft visual stories.</li>
                                 </ul>
                             </div>
                         </div>
@@ -614,18 +426,20 @@
                 <div class="col-xl-auto order-1 order-xl-2">
                     <img src="assets/img/about/fe-1-1.png" alt="feature" class="w-100">
                 </div>
-                <div class="col-md-6 col-xl-auto  order-3 order-xl-3">
+                <div class="col-md-6 col-xl-auto order-3 order-xl-3">
                     <div class="feature-style3">
                         <div class="feature-img">
-                            <div class="img"><img src="assets/img/feature/fe-1-3.jpg" alt="feature"></div>
+                            <div class="img">
+                                <img src="assets/img/feature/fe-1-3.jpg" alt="feature">
+                            </div>
                         </div>
                         <div class="feature-body">
                             <h3 class="feature-title h4">Afternoon Club</h3>
                             <div class="list-style2">
                                 <ul class="list-unstyled">
-                                    <li>Help parents get to work on time</li>
-                                    <li>Near the station</li>
-                                    <li>Children settled and ready to work</li>
+                                    <li>Focused on focus!</li>
+                                    <li>Short logic games.</li>
+                                    <li>Matching challenges.</li>
                                 </ul>
                             </div>
                         </div>
@@ -635,12 +449,11 @@
                             <div class="img"><img src="assets/img/feature/fe-1-4.jpg" alt="feature"></div>
                         </div>
                         <div class="feature-body">
-                            <h3 class="feature-title h4">Music Club</h3>
+                            <h3 class="feature-title h4">Creative Club</h3>
                             <div class="list-style2">
                                 <ul class="list-unstyled">
-                                    <li>Help parents get to work on time</li>
-                                    <li>Near the station</li>
-                                    <li>Children settled and ready to work</li>
+                                    <li>Draw colour, and imagine</li>
+                                    <li>perfect for growing confidence in creativity.</li>
                                 </ul>
                             </div>
                         </div>
@@ -648,53 +461,61 @@
                 </div>
             </div>
         </div>
-    </section><!--==============================
-    Counter Area  
-    ==============================-->
-    <div class=" space-extra-bottom">
+    </section>
+    
+    <!-- Counter Area -->
+    <div class="space-extra-bottom">
         <div class="container">
             <div class="row justify-content-between">
                 <div class="col-6 col-md-6 col-lg-auto">
                     <div class="vs-media media-style1 layout2">
-                        <div class="media-icon"><img src="assets/img/icon/coun-1-1.svg" alt="icon"></div>
+                        <div class="media-icon">
+                            <img src="assets/img/icon/coun-1-1.svg" alt="icon">
+                        </div>
                         <div class="media-body">
-                            <p class="media-label">38</p>
-                            <p class="media-title">Student Classrooms</p>
+                            <p class="media-label">1000+</p>
+                            <p class="media-title">Happy Leaners</p>
                         </div>
                     </div>
                 </div>
                 <div class="col-6 col-md-6 col-lg-auto">
                     <div class="vs-media media-style1 layout2">
-                        <div class="media-icon"><img src="assets/img/icon/coun-1-2.svg" alt="icon"></div>
+                        <div class="media-icon">
+                            <img src="assets/img/icon/coun-1-2.svg" alt="icon">
+                        </div>
                         <div class="media-body">
-                            <p class="media-label">14</p>
-                            <p class="media-title">Kids Classes</p>
+                            <p class="media-label">14+</p>
+                            <p class="media-title">Themed Learning Worlds</p>
                         </div>
                     </div>
                 </div>
                 <div class="col-6 col-md-6 col-lg-auto">
                     <div class="vs-media media-style1 layout2">
-                        <div class="media-icon"><img src="assets/img/icon/coun-1-3.svg" alt="icon"></div>
+                        <div class="media-icon">
+                            <img src="assets/img/icon/coun-1-3.svg" alt="icon">
+                        </div>
                         <div class="media-body">
-                            <p class="media-label">75</p>
-                            <p class="media-title">Outdoor Activities</p>
+                            <p class="media-label">30+</p>
+                            <p class="media-title">Skill-Based Mini Games</p>
                         </div>
                     </div>
                 </div>
                 <div class="col-6 col-md-6 col-lg-auto">
                     <div class="vs-media media-style1 layout2">
-                        <div class="media-icon"><img src="assets/img/icon/coun-1-4.svg" alt="icon"></div>
+                        <div class="media-icon">
+                            <img src="assets/img/icon/coun-1-4.svg" alt="icon">
+                        </div>
                         <div class="media-body">
                             <p class="media-label">23</p>
-                            <p class="media-title">Loving Teachers</p>
+                            <p class="media-title">Expert Educators Behind the Scenes</p>
                         </div>
                     </div>
                 </div>
             </div>
         </div>
-    </div><!--==============================
+    </div><!--
     Why Choose Us
-    ==============================-->
+    -->
     <section class="bg-vs-secondary space-top space-extra-bottom">
         <div class="container">
             <div class="row text-center text-lg-start">
@@ -759,9 +580,9 @@
                 </div>
             </div>
         </div>
-    </section><!--==============================
+    </section><!--
     Gallery Area
-    ==============================-->
+    -->
     <section class=" space-top space-extra-bottom">
         <div class="container">
             <div class="row justify-content-center">
@@ -834,9 +655,9 @@
                 </div>
             </div>
         </div>
-    </section><!--==============================
+    </section><!--
     Testimonial Area
-    ==============================-->
+    -->
     <section class=" space-extra-bottom">
         <div class="container">
             <div class="row justify-content-between text-center text-md-start">
@@ -903,9 +724,9 @@
                 </div>
             </div>
         </div>
-    </section><!--==============================
+    </section><!--
     Instagram Posts
-    ==============================-->
+    -->
     <section class=" space-bottom">
         <div class="container">
             <div class="title-area text-center">
@@ -978,9 +799,9 @@
                 </div>
             </div>
         </div>
-    </section><!--==============================
+    </section><!--
 			Footer Area
-	==============================-->
+	-->
     <footer class="footer-wrapper footer-layout1" data-bg-src="assets/img/bg/footer-bg-1-1.png">
         <div class="footer-top">
             <div class="container">
@@ -1082,9 +903,9 @@
 			Code End  Here 
 	******************************** -->
 
-    <!--==============================
+    <!--
         All Js File
-    ============================== -->
+     -->
     <!-- Jquery -->
     <script src="assets/js/vendor/jquery-3.6.0.min.js"></script>
     <!-- Slick Slider -->

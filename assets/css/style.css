@@ -3280,7 +3280,7 @@ a.text-theme:hover,
 }
 
 .header-layout1 .header-top {
-	background-color: var(--vs-secondary-color);
+	background-color: var(--theme-color);
 	padding: 11px 0;
 }
 

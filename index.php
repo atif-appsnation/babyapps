@@ -356,21 +356,21 @@
                     <div class="bubble"></div>
                 </div>
                 <h2 class="sec-title">How Old is Your Child?</h2>
-                <p class="sec-text">What type of education is best for my child</p>
+                <p class="sec-text">Find the perfect game for their stage:</p>
             </div>
             <div class="row gx-40" data-slide-show="3" data-md-slide-show="2" data-sm-slide-show="2" data-xs-slide-show="2" data-dots="true">
                 <div class="col-md-6 col-lg-4">
                     <div class="category-style2">
                         <div class="category-img">
                             <a href="class-details.html">
-                                <img src="assets/img/category/cat-1-1.jpg" alt="category">
+                                <img src="assets/img/category/preschool.jpg" alt="category">
                             </a>
                         </div>
                         <div class="category-content">
                             <h3 class="category-title">
                                 <a href="class-details.html" class="text-inherit">Preschool</a>
                             </h3>
-                            <p class="category-text">3 - 5 Years</p>
+                            <p class="category-text">2 - 4 Years</p>
                         </div>
                     </div>
                 </div>
@@ -378,14 +378,14 @@
                     <div class="category-style2">
                         <div class="category-img">
                             <a href="class-details.html">
-                                <img src="assets/img/category/cat-1-2.jpg" alt="category">
+                                <img src="assets/img/category/kindergarten.jpg" alt="category">
                             </a>
                         </div>
                         <div class="category-content">
                             <h3 class="category-title">
                                 <a href="class-details.html" class="text-inherit">Kindergarten</a>
                             </h3>
-                            <p class="category-text">5 - 6 Years</p>
+                            <p class="category-text">4 - 6 Years</p>
                         </div>
                     </div>
                 </div>
@@ -393,14 +393,14 @@
                     <div class="category-style2">
                         <div class="category-img">
                             <a href="class-details.html">
-                                <img src="assets/img/category/cat-1-3.jpg" alt="category">
+                                <img src="assets/img/category/primary.jpg" alt="category">
                             </a>
                         </div>
                         <div class="category-content">
                             <h3 class="category-title">
                                 <a href="class-details.html" class="text-inherit">Primary</a>
                             </h3>
-                            <p class="category-text">6 - 11 Years</p>
+                            <p class="category-text">6 - 8 Years</p>
                         </div>
                     </div>
                 </div>
@@ -415,8 +415,8 @@
             <div class="row">
                 <div class="col-lg-8 mx-auto">
                     <div class="title-area text-center">
-                        <span class="sec-subtitle">Games</span>
-                        <h2 class="sec-title">Our Games for Kids</h2>
+                        <span class="sec-subtitle">Featured Apps</span>
+                        <h2 class="sec-title">Play to Learn Anytime & Anywhere</h2>
                     </div>
                 </div>
             </div>
@@ -1194,8 +1194,8 @@
             <div class="row">
                 <div class="col-xl-auto col-xxl-6">
                     <div class="img-box6">
-                        <div class="img-1 mega-hover"><img src="assets/img/about/con-1-1.jpg" alt="image"></div>
-                        <div class="img-2 mega-hover"><img src="assets/img/about/con-1-2.jpg" alt="image"></div>
+                        <div class="img-1 mega-hover"><img src="assets/img/about/about-1.jpg" alt="image"></div>
+                        <div class="img-2 mega-hover"><img src="assets/img/about/about-2.jpg" alt="image"></div>
                     </div>
                 </div>
                 <div class="col-xl col-xxl-6 align-self-center">
@@ -2053,7 +2053,10 @@
                             <div class="vs-widget-about">
                                 <p class="map-link mb-2 pb-1">3415 S Sepulveda Blvd #1100, Los Angeles, CA 90034, United States</p>
                                 <p class="footer-call">
-                                    <a class="text-inherit" href="tel:+13237989803">+44 (0) 207 689 7888</a>
+                                    <a class="text-inherit" href="tel:+13237989803"> +1 (323) 798-9803</a>
+                                </p>
+                                <p class="footer-call">
+                                    <a class="text-inherit" href="mailto:contact@babyapps.kids"> contact@babyapps.kids</a>
                                 </p>
                             </div>
                         </div>
