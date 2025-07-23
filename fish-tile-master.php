@@ -54,7 +54,7 @@
                         <a href="blog">Blog</a>
                     </li>
                     <li>
-                        <a href="video">Videos</a>
+                        <a href="videos">Videos</a>
                     </li>
                     <li>
                         <a href="contact-us">Contact Us</a>
@@ -81,18 +81,20 @@
                 <h3 class="widget_title">Get In Touch</h3>
                 <div>
                     <p class="footer-text">
-                        <img src="assets/img/app-store.webp" class="w-50" alt="App Store">
+                        <a href="https://play.google.com/store/apps/dev?id=6756122300311723118" target="_blank">
+                            <img src="assets/img/play-store.webp" class="w-50" alt="Play Store">
+                        </a>
                     </p>
                     <p class="footer-text">
                         <img src="assets/img/play-store.webp" class="w-50" alt="Play Store">
                     </p>
                     <p class="footer-info">
                         <i class="fal fa-envelope"></i>Email:
-                        <a href="mailto:info@babyapps.kids">info@babyapps.kids</a>
+                        <a href="mailto:contact@babyapps.kids">contact@babyapps.kids</a>
                     </p>
                     <p class="footer-info">
                         <i class="fas fa-mobile-alt"></i>Phone:
-                        <a href="tel:+4402076897888">+44 (0) 207 689 7888</a>
+                        <a href="tel:+13237989803">+1 (323) 798-9803</a>
                     </p>
                 </div>
             </div>
@@ -166,6 +168,34 @@
 
     <!-- Start Header -->
     <header class="vs-header header-layout1">
+        <div class="header-top">
+            <div class="container">
+                <div class="row justify-content-between align-items-center">
+                    <div class="col-auto d-none d-lg-block">
+                        <div class="vs-social">
+                            <a href="#"><i class="fab fa-facebook-f"></i></a>
+                            <a href="#"><i class="fab fa-twitter"></i></a>
+                            <a href="#"><i class="fab fa-linkedin-in"></i></a>
+                            <a href="#"><i class="fab fa-youtube"></i></a>
+                        </div>
+                    </div>
+                    <div class="col-lg-auto text-center">
+                        <div class="header-links style2 style-white">
+                            <ul>
+                                <li>
+                                    <i class="fas fa-envelope"></i>Email:
+                                    <a href="mailto:contact@babyapps.kids">contact@babyapps.kids</a>
+                                </li>
+                                <li>
+                                    <i class="fas fa-mobile-alt"></i>Phone:
+                                    <a href="tel:+13237989803">+1 (323) 798-9803</a>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
         <div class="sticky-wrap">
             <div class="">
                 <div class="container">
@@ -190,7 +220,7 @@
                                         <a href="blog">Blogs</a>
                                     </li>
                                     <li>
-                                        <a href="video">Videos</a>
+                                        <a href="videos">Videos</a>
                                     </li>
                                     <li>
                                         <a href="contact-us">Contact Us</a>
@@ -209,6 +239,7 @@
             </div>
         </div>
     </header>
+    <!-- End Header -->
 
     <!-- Start Breadcumb -->
     <div class="breadcumb-wrapper" data-bg-src="assets/img/breadcumb/breadcumb-bg.jpg">
@@ -401,7 +432,7 @@
                             <a href="#" target="_blank">
                                 <img src="assets/img/app-store.webp" class="img-fluid" alt="App Store">
                             </a>
-                            <a href="#" target="_blank" class="ms-2">
+                            <a href="https://play.google.com/store/apps/dev?id=6756122300311723118" target="_blank" class="ms-2">
                                 <img src="assets/img/play-store.webp" class="img-fluid" alt="Play Store">
                             </a>
                         </div>
@@ -424,23 +455,36 @@
                     </div>
                     <div class="col-md-6 col-lg-4">
                         <div class="widget footer-widget">
-                            <h3 class="widget_title">Main Campus</h3>
+                            <h3 class="widget_title">Our Office</h3>
                             <div class="vs-widget-about">
-                                <p class="map-link mb-2 pb-1">First Floor, 10A Chandos Street London New Town W1G 9LE </p>
+                                <p class="map-link mb-2 pb-1">3415 S Sepulveda Blvd #1100, Los Angeles, CA 90034, United States</p>
                                 <p class="footer-call">
-                                    <a class="text-inherit" href="tel:+4402076897888">+44 (0) 207 689 7888</a>
+                                    <a class="text-inherit" href="tel:+13237989803"> +1 (323) 798-9803</a>
+                                </p>
+                                <p class="footer-call">
+                                    <a class="text-inherit" href="mailto:contact@babyapps.kids"> contact@babyapps.kids</a>
                                 </p>
                             </div>
                         </div>
                     </div>
                     <div class="col-md-6 col-lg-4">
                         <div class="widget footer-widget">
-                            <h3 class="widget_title">National Campus</h3>
-                            <div class="vs-widget-about">
-                                <p class="map-link mb-2 pb-1">First Floor, 10A Chandos Street London New Town W1G 9LE</p>
-                                <p class="footer-call">
-                                    <a class="text-inherit" href="tel:+4402076897888">+44 (0) 207 689 7888</a>
-                                </p>
+                            <h3 class="widget_title">Useful Links</h3>
+                            <div class="vs-mobile-menu">    
+                                <ul>
+                                    <li>
+                                        <a href="about-us">About Us</a>
+                                    </li>
+                                    <li>
+                                        <a href="blog">Blog</a>
+                                    </li>
+                                    <li>
+                                        <a href="videos">Videos</a>
+                                    </li>
+                                    <li>
+                                        <a href="privacy-policy">Privacy Policy</a>
+                                    </li>
+                                </ul>
                             </div>
                         </div>
                     </div>
@@ -459,7 +503,7 @@
                         </div>
                     </div>
                     <div class="col-lg-auto">
-                        <p class="copyright-text text-white">&copy; Copyright 2025 <a href="index">Baby Apps</a>. All Rights Reserved By <a href="https://appexgames.co/" target="_blank">Appex Games</a></p>
+                        <p class="copyright-text text-white">&copy; Copyright 2025 <a href="index.php">Baby Apps</a>. All Rights Reserved By <a href="https://appexgames.co/" target="_blank">Appex Games</a></p>
                     </div>
                 </div>
             </div>

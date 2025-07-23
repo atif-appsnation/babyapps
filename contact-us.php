@@ -4,7 +4,7 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title>About Us - Baby Apps</title>
+    <title>Contact Us - Baby Apps</title>
     <meta name="description" content="Games for Preschool, Kindergarten and Primary">
     <meta name="keywords" content="Games for Preschool, Kindergarten and Primary">
     <meta name="robots" content="INDEX,FOLLOW">
@@ -53,7 +53,7 @@
                         <a href="blog">Blog</a>
                     </li>
                     <li>
-                        <a href="video">Videos</a>
+                        <a href="videos">Videos</a>
                     </li>
                     <li>
                         <a href="contact-us">Contact Us</a>
@@ -80,18 +80,20 @@
                 <h3 class="widget_title">Get In Touch</h3>
                 <div>
                     <p class="footer-text">
-                        <img src="assets/img/app-store.webp" class="w-50" alt="App Store">
+                        <a href="https://play.google.com/store/apps/dev?id=6756122300311723118" target="_blank">
+                            <img src="assets/img/play-store.webp" class="w-50" alt="Play Store">
+                        </a>
                     </p>
                     <p class="footer-text">
-                        <img src="assets/img/play-store.webp" class="w-50" alt="Play Store">
+                        <img src="assets/img/app-store.webp" class="w-50" alt="App Store">
                     </p>
                     <p class="footer-info">
                         <i class="fal fa-envelope"></i>Email:
-                        <a href="mailto:info@babyapps.kids">info@babyapps.kids</a>
+                        <a href="mailto:contact@babyapps.kids">contact@babyapps.kids</a>
                     </p>
                     <p class="footer-info">
                         <i class="fas fa-mobile-alt"></i>Phone:
-                        <a href="tel:+4402076897888">+44 (0) 207 689 7888</a>
+                        <a href="tel:+13237989803">+1 (323) 798-9803</a>
                     </p>
                 </div>
             </div>
@@ -217,7 +219,7 @@
                                         <a href="blog">Blogs</a>
                                     </li>
                                     <li>
-                                        <a href="video">Videos</a>
+                                        <a href="videos">Videos</a>
                                     </li>
                                     <li>
                                         <a href="contact-us">Contact Us</a>
@@ -255,40 +257,47 @@
     </div>
     <!-- End Breadcumb -->    
     
-    <!--==============================
-    Contact Area
-    ==============================-->
-    <section class=" space-top space-extra-bottom ">
+    <!-- Start Contact Area -->
+    <section class="space-top space-extra-bottom">
         <div class="container">
             <div class="row">
                 <div class="col-md-4">
                     <div class="info-style2">
-                        <div class="info-icon"><img src="assets/img/icon/c-b-1-1.svg" alt="icon"></div>
+                        <div class="info-icon">
+                            <img src="assets/img/icon/c-b-1-1.svg" alt="icon">
+                        </div>
                         <h3 class="info-title">Phone No</h3>
-                        <p class="info-text"><a href="tel:+4402076897888" class="text-inherit">+44 (0) 207 689 7888</a>
+                        <p class="info-text">
+                            <a href="tel:+13237989803" class="text-inherit">+1 (323) 798-9803</a>
                         </p>
                     </div>
                 </div>
                 <div class="col-md-4">
                     <div class="info-style2">
-                        <div class="info-icon"><img src="assets/img/icon/c-b-1-2.svg" alt="icon"></div>
+                        <div class="info-icon">
+                            <img src="assets/img/icon/c-b-1-2.svg" alt="icon">
+                        </div>
                         <h3 class="info-title">Monday to Friday</h3>
-                        <p class="info-text">8.30am – 02.00pm</p>
+                        <p class="info-text">9AM – 7PM</p>
                     </div>
                 </div>
                 <div class="col-md-4">
                     <div class="info-style2">
-                        <div class="info-icon"><img src="assets/img/icon/c-b-1-3.svg" alt="icon"></div>
+                        <div class="info-icon">
+                            <img src="assets/img/icon/c-b-1-3.svg" alt="icon">
+                        </div>
                         <h3 class="info-title">Email Address</h3>
-                        <p class="info-text"><a href="mailto:user@domainname.com"
-                                class="text-inherit">user@domainname.com</a></p>
+                        <p class="info-text">
+                            <a href="mailto:contact@babyapps.kids" class="text-inherit">contact@babyapps.kids</a>
+                            </p>
                     </div>
                 </div>
             </div>
         </div>
-    </section><!--==============================
-    Contact Area
-    ==============================-->
+    </section>
+    <!--End Contact Area -->
+
+    <!-- Start Contact Area -->
     <section class=" space-extra-bottom ">
         <div class="container">
             <div class="row flex-row-reverse gx-60 justify-content-between">
@@ -332,22 +341,21 @@
                 </div>
             </div>
         </div>
-    </section><!--==============================
-    Map Area
-    ==============================-->
+    </section>
+    <!-- End Contact Area -->
+    
+    <!--Start Map Area -->
     <section class=" space-bottom">
         <div class="container">
             <div class="title-area">
                 <h2 class="mt-n2">How To Find Us</h2>
             </div>
             <div class="map-style1">
-                <iframe
-                    src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d461913.0572571096!2d8.516164543417332!3d50.24088825844987!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47bd121b354b47fd%3A0x422435029b0c610!2sOffenbach%2C%20Germany!5e0!3m2!1sen!2sbd!4v1693456840610!5m2!1sen!2sbd"
-                    width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"
-                    referrerpolicy="no-referrer-when-downgrade"></iframe>
+                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3306.9065614067304!2d-118.42673662379612!3d34.02060931939902!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80c2bf4180cfb6b3%3A0x697ef1b840cadba5!2sAppsNation%20California%20(Mobile%20Apps%20%7C%20Games%20%7C%20VR%20%2FAR%20%7C%20Metaverse%20%26%20Software%20Development%20Company)!5e0!3m2!1sen!2s!4v1753285285470!5m2!1sen!2s" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
             </div>
         </div>
     </section>
+    <!--End Map Area -->
 
     <!-- Start Wave Shape -->
     <div class="vs-wave-shape  ">
@@ -386,7 +394,7 @@
                             <a href="#" target="_blank">
                                 <img src="assets/img/app-store.webp" class="img-fluid" alt="App Store">
                             </a>
-                            <a href="#" target="_blank" class="ms-2">
+                            <a href="https://play.google.com/store/apps/dev?id=6756122300311723118" target="_blank" class="ms-2">
                                 <img src="assets/img/play-store.webp" class="img-fluid" alt="Play Store">
                             </a>
                         </div>
@@ -422,15 +430,25 @@
                         </div>
                     </div>
                     <div class="col-md-6 col-lg-4">
-                        <!-- <div class="widget footer-widget">
-                            <h3 class="widget_title">National Campus</h3>
-                            <div class="vs-widget-about">
-                                <p class="map-link mb-2 pb-1">First Floor, 10A Chandos Street London New Town W1G 9LE</p>
-                                <p class="footer-call">
-                                    <a class="text-inherit" href="tel:+4402076897888">+44 (0) 207 689 7888</a>
-                                </p>
+                        <div class="widget footer-widget">
+                            <h3 class="widget_title">Useful Links</h3>
+                            <div class="vs-mobile-menu">    
+                                <ul>
+                                    <li>
+                                        <a href="about-us">About Us</a>
+                                    </li>
+                                    <li>
+                                        <a href="blog">Blog</a>
+                                    </li>
+                                    <li>
+                                        <a href="videos">Videos</a>
+                                    </li>
+                                    <li>
+                                        <a href="privacy-policy">Privacy Policy</a>
+                                    </li>
+                                </ul>
                             </div>
-                        </div> -->
+                        </div>
                     </div>
                 </div>
             </div>

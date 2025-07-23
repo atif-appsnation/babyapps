@@ -4,7 +4,7 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title>Contact Us - Baby Apps</title>
+    <title>About Us - Baby Apps</title>
     <meta name="description" content="Games for Preschool, Kindergarten and Primary">
     <meta name="keywords" content="Games for Preschool, Kindergarten and Primary">
     <meta name="robots" content="INDEX,FOLLOW">
@@ -54,7 +54,7 @@
                         <a href="blog">Blog</a>
                     </li>
                     <li>
-                        <a href="video">Videos</a>
+                        <a href="videos">Videos</a>
                     </li>
                     <li>
                         <a href="contact-us">Contact Us</a>
@@ -81,18 +81,20 @@
                 <h3 class="widget_title">Get In Touch</h3>
                 <div>
                     <p class="footer-text">
-                        <img src="assets/img/app-store.webp" class="w-50" alt="App Store">
+                        <a href="https://play.google.com/store/apps/dev?id=6756122300311723118" target="_blank">
+                            <img src="assets/img/play-store.webp" class="w-50" alt="Play Store">
+                        </a>
                     </p>
                     <p class="footer-text">
                         <img src="assets/img/play-store.webp" class="w-50" alt="Play Store">
                     </p>
                     <p class="footer-info">
                         <i class="fal fa-envelope"></i>Email:
-                        <a href="mailto:info@babyapps.kids">info@babyapps.kids</a>
+                        <a href="mailto:contact@babyapps.kids">contact@babyapps.kids</a>
                     </p>
                     <p class="footer-info">
                         <i class="fas fa-mobile-alt"></i>Phone:
-                        <a href="tel:+4402076897888">+44 (0) 207 689 7888</a>
+                        <a href="tel:+13237989803">+1 (323) 798-9803</a>
                     </p>
                 </div>
             </div>
@@ -218,7 +220,7 @@
                                         <a href="blog">Blogs</a>
                                     </li>
                                     <li>
-                                        <a href="video">Videos</a>
+                                        <a href="videos">Videos</a>
                                     </li>
                                     <li>
                                         <a href="contact-us">Contact Us</a>
@@ -869,7 +871,7 @@
                             <a href="#" target="_blank">
                                 <img src="assets/img/app-store.webp" class="img-fluid" alt="App Store">
                             </a>
-                            <a href="#" target="_blank" class="ms-2">
+                            <a href="https://play.google.com/store/apps/dev?id=6756122300311723118" target="_blank" class="ms-2">
                                 <img src="assets/img/play-store.webp" class="img-fluid" alt="Play Store">
                             </a>
                         </div>
@@ -905,15 +907,25 @@
                         </div>
                     </div>
                     <div class="col-md-6 col-lg-4">
-                        <!-- <div class="widget footer-widget">
-                            <h3 class="widget_title">National Campus</h3>
-                            <div class="vs-widget-about">
-                                <p class="map-link mb-2 pb-1">First Floor, 10A Chandos Street London New Town W1G 9LE</p>
-                                <p class="footer-call">
-                                    <a class="text-inherit" href="tel:+4402076897888">+44 (0) 207 689 7888</a>
-                                </p>
+                        <div class="widget footer-widget">
+                            <h3 class="widget_title">Useful Links</h3>
+                            <div class="vs-mobile-menu">    
+                                <ul>
+                                    <li>
+                                        <a href="about-us">About Us</a>
+                                    </li>
+                                    <li>
+                                        <a href="blog">Blog</a>
+                                    </li>
+                                    <li>
+                                        <a href="videos">Videos</a>
+                                    </li>
+                                    <li>
+                                        <a href="privacy-policy">Privacy Policy</a>
+                                    </li>
+                                </ul>
                             </div>
-                        </div> -->
+                        </div>
                     </div>
                 </div>
             </div>
