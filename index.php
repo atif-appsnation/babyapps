@@ -1044,7 +1044,68 @@
             </div>
         </div>
     </section>
-    <!-- Start Games -->
+    <!-- End Games -->
+    
+    <!-- Start Videos -->
+    <section class="py-5 videos">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-8 mx-auto">
+                    <div class="title-area text-center">
+                        <span class="sec-subtitle">Videos</span>
+                        <h2 class="sec-title">See Our Videos</h2>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <?php
+                    $API_KEY = 'AIzaSyAQF6LxBn2Ft9JpvJlbXtZmlXiilNjMeuI'; // Replace with your API key
+                    $CHANNEL_ID = 'UCQpfMyDLzbzgeOyLPzLNAgQ'; // Replace with your channel ID
+            
+                    // Step 1: Get uploads playlist ID
+                    $channel_api = "https://www.googleapis.com/youtube/v3/channels?part=contentDetails&id=$CHANNEL_ID&key=$API_KEY";
+                    $channel_data = json_decode(file_get_contents($channel_api), true);
+            
+                    if (!empty($channel_data['items'])) {
+                        $playlist_id = $channel_data['items'][0]['contentDetails']['relatedPlaylists']['uploads'];
+            
+                        // Step 2: Get videos from the uploads playlist
+                        $videos_api = "https://www.googleapis.com/youtube/v3/playlistItems?part=snippet&playlistId=$playlist_id&maxResults=9&key=$API_KEY";
+                        $videos_data = json_decode(file_get_contents($videos_api), true);
+            
+                        if (!empty($videos_data['items'])) {
+                            foreach ($videos_data['items'] as $video) {
+                                $videoId = $video['snippet']['resourceId']['videoId'];
+                                $title = htmlspecialchars($video['snippet']['title']);
+                                ?>
+                                <div class="col-md-4 mb-4">
+                                    <div class="card video-card h-100">
+                                        <div class="video-embed">
+                                            <iframe src="https://www.youtube.com/embed/<?php echo $videoId; ?>" frameborder="0" allowfullscreen></iframe>
+                                        </div>
+                                        <div class="card-body">
+                                            <h6 class="card-title"><?php echo $title; ?></h6>
+                                        </div>
+                                    </div>
+                                </div>
+                                <?php
+                            }
+                        } else {
+                            echo "<p>No videos found.</p>";
+                        }
+                    } else {
+                        echo "<p>Invalid channel ID or API error.</p>";
+                    }
+                ?>
+            </div>
+            <div class="row">
+                <div class="col-12 text-center">
+                    <a href="videos" class="vs-btn mt-3">View More</a>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- End Videos -->
 
     <!-- Start Wave Shape -->
     <div class="vs-wave-shape">

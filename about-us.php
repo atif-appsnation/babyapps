@@ -265,7 +265,7 @@
                 <div class="col-lg-6 col-xl-auto text-center text-lg-end">
                     <div class="img-box2">
                         <div class="transform-banner">
-                            <img src="assets/img/about/ab-2-1.jpg" alt="about">
+                            <img src="assets/img/about/about-3.jpg" alt="about">
                         </div>
                         <div class="vs-circle jump"></div>
                     </div>
@@ -299,7 +299,7 @@
                 <div class="col-lg-6 text-center text-lg-end">
                     <div class="img-box2 style2">
                         <div class="transform-banner">
-                            <img src="assets/img/about/ab-5-1.jpg" alt="about">
+                            <img src="assets/img/about/about-4.jpg" alt="about">
                         </div>
                         <div class="vs-circle jump"></div>
                     </div>
@@ -342,7 +342,7 @@
                     <div class="team-style1">
                         <div class="team-img">
                             <a href="team-details.html">
-                                <img src="assets/img/team/t-1-1.jpg" alt="team">
+                                <img src="assets/img/team/team-1.jpg" alt="team">
                             </a>
                         </div>
                         <div class="team-content">
@@ -362,7 +362,7 @@
                     <div class="team-style2">
                         <div class="team-img">
                             <a href="team-details.html">
-                                <img src="assets/img/team/t-1-2.jpg" alt="team">
+                                <img src="assets/img/team/team-2.jpg" alt="team">
                             </a>
                         </div>
                         <h3 class="team-name">
@@ -374,7 +374,7 @@
                     <div class="team-style2">
                         <div class="team-img">
                             <a href="team-details.html">
-                                <img src="assets/img/team/t-1-3.jpg"alt="team">
+                                <img src="assets/img/team/team-3.jpg"alt="team">
                             </a>
                         </div>
                         <h3 class="team-name">
@@ -404,7 +404,7 @@
                     <div class="feature-style3">
                         <div class="feature-img">
                             <div class="img">
-                                <img src="assets/img/feature/fe-1-1.jpg" alt="feature">
+                                <img src="assets/img/about/feature-1.jpg" alt="feature">
                             </div>
                         </div>
                         <div class="feature-body">
@@ -421,7 +421,7 @@
                     </div>
                     <div class="feature-style3">
                         <div class="feature-img">
-                            <div class="img"><img src="assets/img/feature/fe-1-2.jpg" alt="feature"></div>
+                            <div class="img"><img src="assets/img/about/feature-2.jpg" alt="feature"></div>
                         </div>
                         <div class="feature-body">
                             <h3 class="feature-title h4">Lunch Club</h3>
@@ -437,13 +437,13 @@
 
                 </div>
                 <div class="col-xl-auto order-1 order-xl-2">
-                    <img src="assets/img/about/fe-1-1.png" alt="feature" class="w-100">
+                    <img src="assets/img/about/main-feature.png" alt="feature" class="w-100">
                 </div>
                 <div class="col-md-6 col-xl-auto order-3 order-xl-3">
                     <div class="feature-style3">
                         <div class="feature-img">
                             <div class="img">
-                                <img src="assets/img/feature/fe-1-3.jpg" alt="feature">
+                                <img src="assets/img/about/feature-3.jpg" alt="feature">
                             </div>
                         </div>
                         <div class="feature-body">
@@ -459,7 +459,7 @@
                     </div>
                     <div class="feature-style3">
                         <div class="feature-img">
-                            <div class="img"><img src="assets/img/feature/fe-1-4.jpg" alt="feature"></div>
+                            <div class="img"><img src="assets/img/about/feature-4.jpg" alt="feature"></div>
                         </div>
                         <div class="feature-body">
                             <h3 class="feature-title h4">Creative Club</h3>

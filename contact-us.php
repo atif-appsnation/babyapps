@@ -302,7 +302,7 @@
         <div class="container">
             <div class="row flex-row-reverse gx-60 justify-content-between">
                 <div class="col-xl-auto">
-                    <img src="assets/img/about/con-2-1.png" alt="girl" class="w-100">
+                    <img src="assets/img/about/contact-us.webp" alt="girl" class="w-100">
                 </div>
                 <div class="col-xl col-xxl-6 align-self-center">
                     <div class="title-area">
