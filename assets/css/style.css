@@ -16540,3 +16540,7 @@ span.select2-selection.select2-selection--single:focus {
 .cta ul li {
 	list-style-type: none;
 }
+
+.video-card h6 {
+	font-weight: 400;
+}
