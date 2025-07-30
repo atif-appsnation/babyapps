@@ -117,50 +117,50 @@
                 <div class="recent-post-wrap">
                     <div class="recent-post">
                         <div class="media-img">
-                            <a href="blog-details.html">
+                            <a href="blog-details">
                                 <img src="assets/img/blog/recent-post-1-1.jpg" alt="Blog Image">
                             </a>
                         </div>
                         <div class="media-body">
                             <div class="recent-post-meta">
-                                <a href="blog.html"><i class="far fa-calendar-alt"></i>December 3, 2022</a>
+                                <a href="blog"><i class="far fa-calendar-alt"></i>December 3, 2022</a>
                             </div>
                             <h4 class="post-title">
-                                <a class="text-inherit" href="blog-details.html">A very warm welcome to our new Treasurer</a>
+                                <a class="text-inherit" href="blog-details">A very warm welcome to our new Treasurer</a>
                                 </h4>
                         </div>
                     </div>
                     <div class="recent-post">
                         <div class="media-img">
-                            <a href="blog-details.html">
+                            <a href="blog-details">
                                 <img src="assets/img/blog/recent-post-1-2.jpg" alt="Blog Image">
                             </a>
                         </div>
                         <div class="media-body">
                             <div class="recent-post-meta">
-                                <a href="blog.html">
+                                <a href="blog">
                                     <i class="far fa-calendar-alt"></i>February 15, 2022
                                 </a>
                             </div>
                             <h4 class="post-title">
-                                <a class="text-inherit" href="blog-details.html">German kinder and garten mean child</a>
+                                <a class="text-inherit" href="blog-details">German kinder and garten mean child</a>
                             </h4>
                         </div>
                     </div>
                     <div class="recent-post">
                         <div class="media-img">
-                            <a href="blog-details.html">
+                            <a href="blog-details">
                                 <img src="assets/img/blog/recent-post-1-3.jpg" alt="Blog Image">
                             </a>
                         </div>
                         <div class="media-body">
                             <div class="recent-post-meta">
-                                <a href="blog.html">
+                                <a href="blog">
                                     <i class="far fa-calendar-alt"></i>Augest 20, 2022
                                 </a>
                             </div>
                             <h4 class="post-title">
-                                <a class="text-inherit" href="blog-details.html">English uses term to refer to the earliest</a>
+                                <a class="text-inherit" href="blog-details">English uses term to refer to the earliest</a>
                             </h4>
                         </div>
                     </div>
@@ -1399,7 +1399,7 @@
                     <div class="bubble"></div>
                     <div class="bubble"></div>
                 </div>
-                <h2 class="sec-title">Recent News</h2>
+                <h2 class="sec-title">Recent Blogs</h2>
                 <p class="sec-text">We are constantly expanding the range of services offered</p>
             </div>
             <div class="row vs-carousel" data-slide-show="3" data-md-slide-show="2">
@@ -1410,13 +1410,15 @@
                             <img src="assets/img/blog/blog-1-1.jpg" alt="Blog Thumbnail" class="w-100">
                         </div>
                         <div class="blog-content">
-                            <a href="blog.html" class="blog-date"><i class="fal fa-calendar-alt"></i>Augest 4, 2023</a>
-                            <h3 class="blog-title h5"><a href="blog-details.html">A very warm welcome to our new
-                                    Treasurer</a></h3>
-                            <p class="blog-text">Lorem ipsum dolor sit amet, consectetur adipisc ing elit, sed do
-                                eiusmod tempor incididunt ut la bore et dolore magna aliqua</p>
+                            <a href="blog" class="blog-date">
+                                <i class="fal fa-calendar-alt"></i>Augest 4, 2023
+                            </a>
+                            <h3 class="blog-title h5">
+                                <a href="blog-details">Are Video Games Really Good For Kids? A Parent's Guide in 2026</a>
+                            </h3>
+                            <p class="blog-text">Let’s analyse Video Games as A Concept: We are in 2026, and the latest devices for children seem to be everywhere.</p>
                         </div>
-                        <a href="blog-details.html" class="blog-btn">Read More<i class="far fa-angle-right"></i></a>
+                        <a href="blog-details" class="blog-btn">Read More<i class="far fa-angle-right"></i></a>
                     </div>
                 </div>
 
@@ -1426,14 +1428,14 @@
                             <img src="assets/img/blog/blog-1-2.jpg" alt="Blog Thumbnail" class="w-100">
                         </div>
                         <div class="blog-content">
-                            <a href="blog.html" class="blog-date"><i class="fal fa-calendar-alt"></i>January 15,
+                            <a href="blog" class="blog-date"><i class="fal fa-calendar-alt"></i>January 15,
                                 2023</a>
-                            <h3 class="blog-title h5"><a href="blog-details.html">Richard McClintock, a Latin scholar
+                            <h3 class="blog-title h5"><a href="blog-details">Richard McClintock, a Latin scholar
                                     from</a></h3>
                             <p class="blog-text">Lorem ipsum dolor sit amet, consectetur adipisc ing elit, sed do
                                 eiusmod tempor incididunt ut la bore et dolore magna aliqua</p>
                         </div>
-                        <a href="blog-details.html" class="blog-btn">Read More<i class="far fa-angle-right"></i></a>
+                        <a href="blog-details" class="blog-btn">Read More<i class="far fa-angle-right"></i></a>
                     </div>
                 </div>
 
@@ -1443,14 +1445,14 @@
                             <img src="assets/img/blog/blog-1-3.jpg" alt="Blog Thumbnail" class="w-100">
                         </div>
                         <div class="blog-content">
-                            <a href="blog.html" class="blog-date"><i class="fal fa-calendar-alt"></i>December 3,
+                            <a href="blog" class="blog-date"><i class="fal fa-calendar-alt"></i>December 3,
                                 2023</a>
-                            <h3 class="blog-title h5"><a href="blog-details.html">In particular, the garbled words of
+                            <h3 class="blog-title h5"><a href="blog-details">In particular, the garbled words of
                                     lorem</a></h3>
                             <p class="blog-text">Lorem ipsum dolor sit amet, consectetur adipisc ing elit, sed do
                                 eiusmod tempor incididunt ut la bore et dolore magna aliqua</p>
                         </div>
-                        <a href="blog-details.html" class="blog-btn">Read More<i class="far fa-angle-right"></i></a>
+                        <a href="blog-details" class="blog-btn">Read More<i class="far fa-angle-right"></i></a>
                     </div>
                 </div>
             </div>
