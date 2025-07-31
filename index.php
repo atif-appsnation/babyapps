@@ -52,7 +52,7 @@
                         <a href="about-us">About Us</a>
                     </li>
                     <li>
-                        <a href="blog">Blog</a>
+                        <a href="blogs">Blog</a>
                     </li>
                     <li>
                         <a href="videos">Videos</a>
@@ -205,7 +205,7 @@
                                                 <a href="about-us">About Us</a>
                                             </li>
                                             <li>
-                                                <a href="blog">Blogs</a>
+                                                <a href="blogs">Blogs</a>
                                             </li>
                                             <li>
                                                 <a href="videos">Videos</a>
@@ -1414,11 +1414,11 @@
                                 <i class="fal fa-calendar-alt"></i>Augest 4, 2023
                             </a>
                             <h3 class="blog-title h5">
-                                <a href="blog-details">Are Video Games Really Good For Kids? A Parent's Guide in 2026</a>
+                                <a href="are-video-games-really-good-for-kids-a-parents-guide-in-2026">Are Video Games Really Good For Kids? A Parent's Guide in 2026</a>
                             </h3>
                             <p class="blog-text">Let’s analyse Video Games as A Concept: We are in 2026, and the latest devices for children seem to be everywhere.</p>
                         </div>
-                        <a href="blog-details" class="blog-btn">Read More<i class="far fa-angle-right"></i></a>
+                        <a href="are-video-games-really-good-for-kids-a-parents-guide-in-2026" class="blog-btn">Read More<i class="far fa-angle-right"></i></a>
                     </div>
                 </div>
 
@@ -1428,14 +1428,17 @@
                             <img src="assets/img/blog/blog-1-2.jpg" alt="Blog Thumbnail" class="w-100">
                         </div>
                         <div class="blog-content">
-                            <a href="blog" class="blog-date"><i class="fal fa-calendar-alt"></i>January 15,
-                                2023</a>
-                            <h3 class="blog-title h5"><a href="blog-details">Richard McClintock, a Latin scholar
-                                    from</a></h3>
-                            <p class="blog-text">Lorem ipsum dolor sit amet, consectetur adipisc ing elit, sed do
-                                eiusmod tempor incididunt ut la bore et dolore magna aliqua</p>
+                            <a href="blog" class="blog-date">
+                                <i class="fal fa-calendar-alt"></i>January 15,2023
+                            </a>
+                            <h3 class="blog-title h5">
+                                <a href="10-surprising-benefits-why-kids-should-play-video-games-in-2025">10 Surprising Benefits Why Kids Should Play Video Games in 2025</a>
+                            </h3>
+                            <p class="blog-text">Video games have become one of the leading forms of interactive entertainment.</p>
                         </div>
-                        <a href="blog-details" class="blog-btn">Read More<i class="far fa-angle-right"></i></a>
+                        <a href="10-surprising-benefits-why-kids-should-play-video-games-in-2025" class="blog-btn">Read More
+                            <i class="far fa-angle-right"></i>
+                        </a>
                     </div>
                 </div>
 
@@ -1445,14 +1448,15 @@
                             <img src="assets/img/blog/blog-1-3.jpg" alt="Blog Thumbnail" class="w-100">
                         </div>
                         <div class="blog-content">
-                            <a href="blog" class="blog-date"><i class="fal fa-calendar-alt"></i>December 3,
-                                2023</a>
-                            <h3 class="blog-title h5"><a href="blog-details">In particular, the garbled words of
-                                    lorem</a></h3>
-                            <p class="blog-text">Lorem ipsum dolor sit amet, consectetur adipisc ing elit, sed do
-                                eiusmod tempor incididunt ut la bore et dolore magna aliqua</p>
+                            <a href="blog" class="blog-date">
+                                <i class="fal fa-calendar-alt"></i>December 3,2023
+                            </a>
+                            <h3 class="blog-title h5">
+                                <a href="the-digital-playground-top-7-educational-apps-for-babies-in-2025">The Digital Playground: Top 7 Educational Apps For Babies In 2025</a>
+                            </h3>
+                            <p class="blog-text">Due to the contentious nature of squaring learning with screen time for babies and toddlers.</p>
                         </div>
-                        <a href="blog-details" class="blog-btn">Read More<i class="far fa-angle-right"></i></a>
+                        <a href="the-digital-playground-top-7-educational-apps-for-babies-in-2025" class="blog-btn">Read More<i class="far fa-angle-right"></i></a>
                     </div>
                 </div>
             </div>
@@ -2169,7 +2173,7 @@
                                         <a href="about-us">About Us</a>
                                     </li>
                                     <li>
-                                        <a href="blog">Blog</a>
+                                        <a href="blogs">Blog</a>
                                     </li>
                                     <li>
                                         <a href="videos">Videos</a>

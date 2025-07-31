@@ -50,7 +50,7 @@
                         <a href="about-us">About Us</a>
                     </li>
                     <li>
-                        <a href="blog">Blog</a>
+                        <a href="blogs">Blog</a>
                     </li>
                     <li>
                         <a href="videos">Videos</a>
@@ -216,7 +216,7 @@
                                         <a href="about-us">About Us</a>
                                     </li>
                                     <li>
-                                        <a href="blog">Blogs</a>
+                                        <a href="blogs">Blogs</a>
                                     </li>
                                     <li>
                                         <a href="videos">Videos</a>
@@ -438,7 +438,7 @@
                                         <a href="about-us">About Us</a>
                                     </li>
                                     <li>
-                                        <a href="blog">Blog</a>
+                                        <a href="blogs">Blog</a>
                                     </li>
                                     <li>
                                         <a href="videos">Videos</a>

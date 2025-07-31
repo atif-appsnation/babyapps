@@ -4,7 +4,7 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title>Deep Count - Baby Apps</title>
+    <title>Blogs - Baby Apps</title>
     <meta name="description" content="Games for Preschool, Kindergarten and Primary">
     <meta name="keywords" content="Games for Preschool, Kindergarten and Primary">
     <meta name="robots" content="INDEX,FOLLOW">
@@ -23,7 +23,6 @@
 </head>
 
 <body>
-
     <!-- Start Preloader -->
     <div class="preloader">
         <button class="vs-btn preloaderCls">Cancel Preloader </button>
@@ -155,9 +154,9 @@
         </div>
     </div>
     <!-- End Sidemenu -->
-    
+
     <!-- Start Popup Search Box -->
-    <div class="popup-search-box d-none d-lg-block">
+    <div class="popup-search-box d-none d-lg-block  ">
         <button class="searchClose"><i class="fal fa-times"></i></button>
         <form action="#">
             <input type="text" class="border-theme" placeholder="What are you looking for">
@@ -245,159 +244,299 @@
     <div class="breadcumb-wrapper" data-bg-src="assets/img/breadcumb/breadcumb-bg.jpg">
         <div class="container z-index-common">
             <div class="breadcumb-content">
-                <h1 class="breadcumb-title">Deep Count</h1>
+                <h1 class="breadcumb-title">Blogs</h1>
                 <p class="breadcumb-text">Montessori Is A Nurturing And Holistic Approach To Learning</p>
                 <div class="breadcumb-menu-wrap">
                     <ul class="breadcumb-menu">
                         <li><a href="index">Home</a></li>
-                        <li>Deep Count</li>
+                        <li>Blogs</li>
                     </ul>
                 </div>
             </div>
         </div>
     </div>
     <!-- End Breadcumb -->
-     
-    <!-- Start Game -->
-    <section class="my-5">
+    
+    
+    <!-- Start Blog Area -->
+    <section class="vs-blog-wrapper space-top space-extra-bottom">
         <div class="container">
-            <div class="row">
-                <div class="col-12">
-                    <iframe src="https://games.appsnation.co/alphabet-match-up/index.html" allowfullscreen width="100%" height="800"></iframe>
-                </div>
-            </div>
-        </div>
-    </section>
-    <!-- End Game -->
-
-    <!-- Start Gallery -->
-    <section class="my-5">
-        <div class="container">
-            <div class="row">
-                <div class="col-12 col-lg-9">
-                    <div class="row">
-                        <div class="col-lg-5">
-                            <div class="d-flex">
-                                <a href="#" target="_blank">
-                                    <img src="assets/img/app-store.webp" class="img-fluid" alt="App Store">
+            <div class="row gx-40">
+                <div class="col-lg-8">
+                    <div class="vs-blog blog-single has-post-thumbnail">
+                        <div class="blog-img">
+                            <a href="are-video-games-really-good-for-kids-a-parents-guide-in-2026">
+                                <img src="assets/img/blog/blog-single-1-1.jpg" alt="Blog Image">
+                            </a>
+                        </div>
+                        <div class="blog-content">
+                            <div class="blog-meta">
+                                <a>
+                                    <i class="far fa-calendar-alt"></i>December 3, 2022
                                 </a>
-                                <a href="https://play.google.com/store/apps/details?id=com.babyapps.math.bubblecount.DeepCount" target="_blank" class="ms-2">
-                                    <img src="assets/img/play-store.webp" class="img-fluid" alt="Play Store">
+                                <span>
+                                    <i class="far fa-comment-alt-dots"></i>15
+                                </span>
+                            </div>
+                            <h2 class="blog-title">
+                                <a href="are-video-games-really-good-for-kids-a-parents-guide-in-2026">Are Video Games Really Good For Kids? A Parent's Guide in 2026</a>
+                            </h2>
+                            <p class="blog-text">Let’s analyse Video Games as A Concept: We are in 2026, and the latest devices for children seem to be everywhere. As caretakers, we often link children’s gadgetry to their levels of physical activity, grades, and even their social life.</p>
+                            <a href="are-video-games-really-good-for-kids-a-parents-guide-in-2026" class="vs-btn style2">Read More</a>
+                        </div>
+                    </div>
+                    <div class="vs-blog blog-single has-post-thumbnail">
+                        <div class="blog-img">
+                            <a href="10-surprising-benefits-why-kids-should-play-video-games-in-2025">
+                                <img src="assets/img/blog/blog-single-1-1.jpg" alt="Blog Image">
+                            </a>
+                        </div>
+                        <div class="blog-content">
+                            <div class="blog-meta">
+                                <a>
+                                    <i class="far fa-calendar-alt"></i>December 3, 2022
                                 </a>
+                                <span><i class="far fa-comment-alt-dots"></i>15</span>
                             </div>
+                            <h2 class="blog-title">
+                                <a href="the-digital-playground-top-7-educational-apps-for-babies-in-2025">The Digital Playground: Top 7 Educational Apps For Babies In 2025</a>
+                                </h2>
+                            <p class="blog-text">Due to the contentious nature of squaring learning with screen time for babies and toddlers, self-contained entertainment applications inject elements of education to make the most of the precious time spent on screens.</p>
+                            <a href="the-digital-playground-top-7-educational-apps-for-babies-in-2025" class="vs-btn style2">Read More</a>
                         </div>
                     </div>
-                    <div class="row mt-3">
-                        <div class="col-12">
-                            <div class="slider">
-                                <div><img src="assets/img/games/deep-count/deep-count-01.webp" class="img-fluid" alt="Deep Count"></div>
-                                <div><img src="assets/img/games/deep-count/deep-count-02.webp" class="img-fluid" alt="Deep Count"></div>
-                                <div><img src="assets/img/games/deep-count/deep-count-03.webp" class="img-fluid" alt="Deep Count"></div>
-                                <div><img src="assets/img/games/deep-count/deep-count-04.webp" class="img-fluid" alt="Deep Count"></div>
+                    <div class="vs-blog blog-single has-post-thumbnail">
+                        <div class="blog-img">
+                            <a href="10-surprising-benefits-why-kids-should-play-video-games-in-2025">
+                                <img src="assets/img/blog/blog-single-1-1.jpg" alt="Blog Image">
+                            </a>
+                        </div>
+                        <div class="blog-content">
+                            <div class="blog-meta">
+                                <a>
+                                    <i class="far fa-calendar-alt"></i>December 3, 2022
+                                </a>
+                                <span><i class="far fa-comment-alt-dots"></i>15</span>
                             </div>
+                            <h2 class="blog-title">
+                                <a href="10-surprising-benefits-why-kids-should-play-video-games-in-2025">10 Surprising Benefits Why Kids Should Play Video Games in 2025</a>
+                                </h2>
+                            <p class="blog-text">Video games have become one of the leading forms of interactive entertainment. They can immerse gamers into solving complex puzzles and completing intricate missions. Games educate in the process.</p>
+                            <a href="10-surprising-benefits-why-kids-should-play-video-games-in-2025" class="vs-btn style2">Read More</a>
                         </div>
                     </div>
-                    <div class="row mt-4">
-                        <div class="col-12">
-                            <div class="collapsible-text" id="collapsibleContent">
-                                <h3>About this game</h3>
-                                <p>Deep Count is an interactive math puzzle game where children pop number bubbles to solve basic arithmetic challenges. Designed for ages 4 to 10, this educational app supports the development of number sense, counting, and problem-solving skills — all set in a bright, ocean-themed environment.</p>
-                                <p>With one-tap gameplay and levels that gradually increase in complexity, Deep Count offers children a calm, focused space to practice early math concepts.</p>
-                                <h4>How to Play:</h4>
-                                <ol>
-                                    <li>Tap number bubbles that add up to a target sum.</li>
-                                    <li>Use addition or subtraction to clear bubbles before they overflow.</li>
-                                    <li>Solve logic puzzles by combining fast thinking with simple math.</li>
-                                    <li>Unlock new stages as challenges progress.</li>
-                                </ol>
-                                <h4>Features:</h4>
-                                <ul>
-                                    <li><b>Bubble Math Gameplay:</b> Solve puzzles by matching numbers through popping.</li>
-                                    <li><b>Supports Early Math Skills:</b> Practice addition, subtraction, counting, and patterns.</li>
-                                    <li><b>Simple Tap Controls:</b> One-finger play, no reading required.</li>
-                                    <li><b>Progressive Levels:</b> Start with easy problems and grow with each level.</li>
-                                    <li><b>Underwater Visual Theme:</b> Ocean-inspired visuals and cheerful audio cues.</li>
-                                </ul>
-                                <h4>Who Can Use It:</h4>
-                                <ul>
-                                    <li><b>Ages 4–6:</b> Learn to count and recognize numbers through visual play.</li>
-                                    <li><b>Ages 6–10:</b> Practice arithmetic and build confidence in problem-solving.</li>
-                                    <li><b>Parents & Educators:</b> Use as a math support tool at home or in the classroom.</li>
-                                </ul>
-                                <h4>Educational Benefits:</h4>
-                                <ul>
-                                    <li>Reinforces core math concepts such as addition and subtraction.</li>
-                                    <li>Builds critical thinking, logic, and sequencing skills.</li>
-                                    <li>Improves visual attention and number recognition.</li>
-                                    <li>Encourages independent play and learning.</li>
-                                </ul>
-                                <h4>Created by BabyApps:</h4>
-                                <p>Deep Count is developed by BabyApps, in partnership with AppsNation and AppexGames. Our mission is to create educational tools that are simple, safe, and focused on learning through hands-on interaction. Each app is designed with families and educators in mind.</p>
-                            </div>
-                            <button class="btn vs-btn toggle-btn mt-3" id="toggleBtn">View More</button>
+                    <div class="vs-blog blog-single has-post-thumbnail">
+                        <div class="blog-img">
+                            <a href="10-surprising-benefits-why-kids-should-play-video-games-in-2025">
+                                <img src="assets/img/blog/blog-single-1-1.jpg" alt="Blog Image">
+                            </a>
                         </div>
+                        <div class="blog-content">
+                            <div class="blog-meta">
+                                <a>
+                                    <i class="far fa-calendar-alt"></i>December 3, 2022
+                                </a>
+                                <span><i class="far fa-comment-alt-dots"></i>15</span>
+                            </div>
+                            <h2 class="blog-title">
+                                <a href="10-surprising-benefits-why-kids-should-play-video-games-in-2025">A very warm welcome to our new Treasurer</a>
+                                </h2>
+                            <p class="blog-text">Due to the contentious nature of squaring learning with screen time for babies and toddlers, self-contained entertainment applications inject elements of education to make the most of the precious time spent on screens.</p>
+                            <a href="10-surprising-benefits-why-kids-should-play-video-games-in-2025" class="vs-btn style2">Read More</a>
+                        </div>
+                    </div>
+                    <div class="vs-blog blog-single has-post-thumbnail">
+                        <div class="blog-img">
+                            <a href="10-surprising-benefits-why-kids-should-play-video-games-in-2025">
+                                <img src="assets/img/blog/blog-single-1-1.jpg" alt="Blog Image">
+                            </a>
+                        </div>
+                        <div class="blog-content">
+                            <div class="blog-meta">
+                                <a>
+                                    <i class="far fa-calendar-alt"></i>December 3, 2022
+                                </a>
+                                <span><i class="far fa-comment-alt-dots"></i>15</span>
+                            </div>
+                            <h2 class="blog-title">
+                                <a href="10-surprising-benefits-why-kids-should-play-video-games-in-2025">A very warm welcome to our new Treasurer</a>
+                                </h2>
+                            <p class="blog-text">Due to the contentious nature of squaring learning with screen time for babies and toddlers, self-contained entertainment applications inject elements of education to make the most of the precious time spent on screens.</p>
+                            <a href="10-surprising-benefits-why-kids-should-play-video-games-in-2025" class="vs-btn style2">Read More</a>
+                        </div>
+                    </div>
+                    <div class="vs-pagination  ">
+                        <a href="#" class="pagi-btn">Prev</a>
+                        <ul>
+                            <li><a href="#">1</a></li>
+                            <li><a href="#">2</a></li>
+                            <li><a href="#">3</a></li>
+                            <li><a href="#">...</a></li>
+                            <li><a href="#">12</a></li>
+                        </ul>
+                        <a href="#" class="pagi-btn">next</a>
                     </div>
                 </div>
-                <div class="col-12 col-lg-3">
-                    <div class="card req-card h-100">
-                        <div class="card-body">
-                            <h4>Play on PC</h4>
-                            <p>Play this game on your Windows PC</p>
-                            <hr>
-                            <section>
-                                <div class="games-details">
-                                    <div class="details">
-                                        <svg width="20" height="21" viewBox="0 0 22 21" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                            <path d="M21.7143 10.625L19.3614 7.93464L19.6893 4.37643L16.2082 3.58571L14.3857 0.5L11.1071 1.90786L7.82857 0.5L6.00607 3.57607L2.525 4.35714L2.85286 7.925L0.5 10.625L2.85286 13.3154L2.525 16.8832L6.00607 17.6739L7.82857 20.75L11.1071 19.3325L14.3857 20.7404L16.2082 17.6643L19.6893 16.8736L19.3614 13.3154L21.7143 10.625ZM9.26536 15.1764L5.60107 11.5025L7.02821 10.0754L9.26536 12.3221L14.9064 6.66179L16.3336 8.08893L9.26536 15.1764Z" fill="white"></path>
-                                        </svg>
-                                        <p class="fwc4vd">Official Google experience</p>
+                <div class="col-lg-4">
+                    <aside class="sidebar-area">
+                        <div class="widget widget_search   ">
+                            <h3 class="widget_title">Search</h3>
+                            <form class="search-form">
+                                <input type="text" placeholder="Search Here">
+                                <button type="submit"><i class="far fa-search"></i></button>
+                            </form>
+                        </div>
+                        <div class="widget  ">
+                            <h3 class="widget_title">Latest News</h3>
+                            <div class="recent-post-wrap">
+                                <div class="recent-post">
+                                    <div class="media-img">
+                                        <a href="blog-details.html"><img src="assets/img/blog/recent-post-1-1.jpg"
+                                                alt="Blog Image"></a>
                                     </div>
-                                    <div class="details">
-                                        <svg width="19" height="18" viewBox="0 0 19 18" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                            <path d="M16.5 0.996094H1.80469C1.31771 0.996094 0.895184 1.17513 0.537109 1.5332C0.179035 1.89128 0 2.32812 0 2.84375V13.8438C0 14.3307 0.179035 14.7533 0.537109 15.1113C0.895184 15.4694 1.31771 15.6484 1.80469 15.6484H5.5V17.4961H12.8047V15.6484H16.5C16.987 15.6484 17.4095 15.4694 17.7676 15.1113C18.1257 14.7533 18.3047 14.3307 18.3047 13.8438V2.84375C18.3047 2.32812 18.1257 1.89128 17.7676 1.5332C17.4095 1.17513 16.987 0.996094 16.5 0.996094ZM16.5 13.8438H1.80469V2.84375H16.5V13.8438ZM4.125 5.12109H6.40234V3.74609H2.75V7.39844H4.125V5.12109ZM15.5547 9.24609H14.1797V11.5234H11.9023V12.8984H15.5547V9.24609Z" fill="white" fill-opacity="0.9"></path>
-                                        </svg>
-                                        <p class="fwc4vd">Bigger screen</p>
-                                    </div>
-                                    <div class="details">
-                                        <svg width="19" height="11" viewBox="0 0 19 11" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                            <path d="M12.8047 0H18.3047V5.5L16.1992 3.39453L10.4414 9.15234L6.78906 5.5L1.28906 11L0 9.71094L6.78906 2.92188L10.4414 6.57422L14.9102 2.10547L12.8047 0Z" fill="white" fill-opacity="0.9"></path>
-                                        </svg>
-                                        <p class="fwc4vd">Level up with improved controls</p>
-                                    </div>
-                                    <div class="details">
-                                        <svg width="18" height="24" viewBox="0 0 18 24" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                            <path d="M9 3.81818V0.75L4.875 4.84091L9 8.93182V5.86364C12.4134 5.86364 15.1875 8.61477 15.1875 12C15.1875 13.033 14.9297 14.0148 14.4656 14.8636L15.9713 16.3568C16.7756 15.0989 17.25 13.6057 17.25 12C17.25 7.47955 13.5581 3.81818 9 3.81818ZM9 18.1364C5.58656 18.1364 2.8125 15.3852 2.8125 12C2.8125 10.967 3.07031 9.98523 3.53437 9.13636L2.02875 7.64318C1.22437 8.90114 0.75 10.3943 0.75 12C0.75 16.5205 4.44187 20.1818 9 20.1818V23.25L13.125 19.1591L9 15.0682V18.1364Z" fill="white"></path>
-                                        </svg>
-                                        <p class="fwc4vd">Seamless sync across devices*</p>
-                                    </div>
-                                    <div class="details">
-                                        <svg width="17" height="16" viewBox="0 0 17 16" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                            <path fill-rule="evenodd" clip-rule="evenodd" d="M15 3.33333H13.1833C13.275 3.075 13.3333 2.79167 13.3333 2.5C13.3333 1.11667 12.2167 0 10.8333 0C9.95833 0 9.2 0.45 8.75 1.125L8.33333 1.68333L7.91667 1.11667C7.46667 0.45 6.70833 0 5.83333 0C4.45 0 3.33333 1.11667 3.33333 2.5C3.33333 2.79167 3.39167 3.075 3.48333 3.33333H1.66667C0.741667 3.33333 0.00833333 4.075 0.00833333 5L0 14.1667C0 15.0917 0.741667 15.8333 1.66667 15.8333H15C15.925 15.8333 16.6667 15.0917 16.6667 14.1667V5C16.6667 4.075 15.925 3.33333 15 3.33333ZM10.8333 1.66667C11.2917 1.66667 11.6667 2.04167 11.6667 2.5C11.6667 2.95833 11.2917 3.33333 10.8333 3.33333C10.375 3.33333 10 2.95833 10 2.5C10 2.04167 10.375 1.66667 10.8333 1.66667ZM6.66667 2.5C6.66667 2.04167 6.29167 1.66667 5.83333 1.66667C5.375 1.66667 5 2.04167 5 2.5C5 2.95833 5.375 3.33333 5.83333 3.33333C6.29167 3.33333 6.66667 2.95833 6.66667 2.5ZM1.66667 14.1667V12.5H15V14.1667H1.66667ZM1.66667 5V10H15V5H10.7667L12.5 7.35833L11.15 8.33333L8.33333 4.5L5.51667 8.33333L4.16667 7.35833L5.9 5H1.66667Z" fill="white"></path>
-                                        </svg>
-                                        <p class="fwc4vd">Earn Google Play Points</p>
+                                    <div class="media-body">
+                                        <div class="recent-post-meta">
+                                            <a href="blog.html"><i class="far fa-calendar-alt"></i>December 3, 2022</a>
+                                        </div>
+                                        <h4 class="post-title"><a class="text-inherit" href="blog-details.html">A very
+                                                warm welcome to our new Treasurer</a></h4>
                                     </div>
                                 </div>
-                            </section>
-                            <hr>
-                            <h4>Minimum Requirements</h4>
-                            <ul>
-                                <li><strong>OS: </strong>Windows 10</li>
-                                <li><strong>Graphics: </strong>IntelⓇ UHD Graphics 630 GPU or comparable</li>
-                                <li><strong>Processor: </strong>4 CPU physical cores</li>
-                                <li><strong>Memory: </strong>8GB of Ram</li>
-                            </ul>
-                            <hr>
-                            <p>To learn more about these requirements, visit the Help Center</p>
-                            <p>Intel is a registered trademark of Intel Corporation or its subsidiaries. Windows is a trademark of the Microsoft group of companies.</p>
-                            <p>*Might not be available for this game</p>
+                                <div class="recent-post">
+                                    <div class="media-img">
+                                        <a href="blog-details.html"><img src="assets/img/blog/recent-post-1-2.jpg"
+                                                alt="Blog Image"></a>
+                                    </div>
+                                    <div class="media-body">
+                                        <div class="recent-post-meta">
+                                            <a href="blog.html"><i class="far fa-calendar-alt"></i>February 15, 2022</a>
+                                        </div>
+                                        <h4 class="post-title"><a class="text-inherit" href="blog-details.html">German
+                                                kinder and garten mean child</a></h4>
+                                    </div>
+                                </div>
+                                <div class="recent-post">
+                                    <div class="media-img">
+                                        <a href="blog-details.html"><img src="assets/img/blog/recent-post-1-3.jpg"
+                                                alt="Blog Image"></a>
+                                    </div>
+                                    <div class="media-body">
+                                        <div class="recent-post-meta">
+                                            <a href="blog.html"><i class="far fa-calendar-alt"></i>Augest 20, 2022</a>
+                                        </div>
+                                        <h4 class="post-title"><a class="text-inherit" href="blog-details.html">English
+                                                uses term to refer to the earliest</a></h4>
+                                    </div>
+                                </div>
+                            </div>
                         </div>
-                    </div>
+                        <div class="widget widget_categories   ">
+                            <h3 class="widget_title">Categories</h3>
+                            <ul>
+                                <li>
+                                    <a href="blog.html">TODDLER</a>
+                                </li>
+                                <li>
+                                    <a href="blog.html">PRESCHOOL</a>
+                                </li>
+                                <li>
+                                    <a href="blog.html">KINDERGARTEN</a>
+                                </li>
+                                <li>
+                                    <a href="blog.html">PRE-K PROGRAM</a>
+                                </li>
+                                <li>
+                                    <a href="blog.html">AFTER SCHOOL</a>
+                                </li>
+                            </ul>
+                        </div>
+                        <div class="widget  ">
+                            <h4 class="widget_title">Photos Gallery</h4>
+                            <div class="sidebar-gallery">
+                                <div class="gallery-thumb">
+                                    <img src="assets/img/widget/gal-1-1.jpg" alt="Gallery Image" class="w-100">
+                                    <a href="assets/img/widget/gal-1-1.jpg" class="popup-image gal-btn"><i
+                                            class="fal fa-plus"></i></a>
+                                </div>
+                                <div class="gallery-thumb">
+                                    <img src="assets/img/widget/gal-1-2.jpg" alt="Gallery Image" class="w-100">
+                                    <a href="assets/img/widget/gal-1-2.jpg" class="popup-image gal-btn"><i
+                                            class="fal fa-plus"></i></a>
+                                </div>
+                                <div class="gallery-thumb">
+                                    <img src="assets/img/widget/gal-1-3.jpg" alt="Gallery Image" class="w-100">
+                                    <a href="assets/img/widget/gal-1-3.jpg" class="popup-image gal-btn"><i
+                                            class="fal fa-plus"></i></a>
+                                </div>
+                                <div class="gallery-thumb">
+                                    <img src="assets/img/widget/gal-1-4.jpg" alt="Gallery Image" class="w-100">
+                                    <a href="assets/img/widget/gal-1-4.jpg" class="popup-image gal-btn"><i
+                                            class="fal fa-plus"></i></a>
+                                </div>
+                                <div class="gallery-thumb">
+                                    <img src="assets/img/widget/gal-1-5.jpg" alt="Gallery Image" class="w-100">
+                                    <a href="assets/img/widget/gal-1-5.jpg" class="popup-image gal-btn"><i
+                                            class="fal fa-plus"></i></a>
+                                </div>
+                                <div class="gallery-thumb">
+                                    <img src="assets/img/widget/gal-1-6.jpg" alt="Gallery Image" class="w-100">
+                                    <a href="assets/img/widget/gal-1-6.jpg" class="popup-image gal-btn"><i
+                                            class="fal fa-plus"></i></a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="widget  ">
+                            <h3 class="widget_title">Video</h3>
+                            <div class="vs-video-widget">
+                                <div class="video-thumb mega-hover">
+                                    <img src="assets/img/blog/intro-video-thumb.jpg" alt="Video Thumb" class="w-100">
+                                    <a href="https://www.youtube.com/watch?v=_sI_Ps7JSEk"
+                                        class="play-btn popup-video position-center"><i class="fas fa-play"></i></a>
+                                </div>
+                                <h4 class="video-title h5"><a href="https://www.youtube.com/watch?v=_sI_Ps7JSEk"
+                                        class="text-inherit popup-video">A very warm welcome to our new Treasurer</a>
+                                </h4>
+                            </div>
+                        </div>
+                        <div class="widget widget_tag_cloud   ">
+                            <h3 class="widget_title">Upcoming Events</h3>
+                            <div class="vs-event-widget">
+                                <div class="recent-event">
+                                    <a href="event-details.html" class="event-date"><span class="month">Dec</span>24</a>
+                                    <div class="media-body">
+                                        <h4 class="event-title"><a href="event-details.html"
+                                                class="text-inherit">Father`s Day Sundaes & Shaving!</a></h4>
+                                    </div>
+                                </div>
+                                <div class="recent-event">
+                                    <a href="event-details.html" class="event-date"><span class="month">Dec</span>24</a>
+                                    <div class="media-body">
+                                        <h4 class="event-title"><a href="event-details.html"
+                                                class="text-inherit">Father`s Day Sundaes & Shaving!</a></h4>
+                                    </div>
+                                </div>
+                                <div class="recent-event">
+                                    <a href="event-details.html" class="event-date"><span class="month">Dec</span>24</a>
+                                    <div class="media-body">
+                                        <h4 class="event-title"><a href="event-details.html"
+                                                class="text-inherit">Father`s Day Sundaes & Shaving!</a></h4>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="widget bg-vs-secondary  " data-bg-src="assets/img/bg/widget-bg-1-1.png">
+                            <h4 class="mt-n2 text-white">Join together to make amazing things happen</h4>
+                            <p class="mb-4 pb-1 text-white">Get all the latest information, support and guidance about
+                                the cost of living with kindergarten.</p>
+                            <a href="registration.html" class="vs-btn">Start Registration</a>
+                        </div>
+                    </aside>
                 </div>
             </div>
         </div>
     </section>
-    <!-- End Gallery -->
-
+    
+    
     <!-- Start Wave Shape -->
     <div class="vs-wave-shape  ">
         <svg viewBox="0 0 1920 295" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -406,7 +545,7 @@
         </svg>
     </div>
     <!-- End Wave Shape -->
-
+   
     <!-- Start Footer Area -->
     <footer class="footer-wrapper footer-layout3">
         <div class="shape-mockup jump-reverse d-none d-xxxl-block" data-right="0" data-top="0">
@@ -534,9 +673,6 @@
 
     <script src="assets/js/vendor/jquery-3.6.0.min.js"></script>
     <script src="assets/js/slick.min.js"></script>
-    <script src="assets/js/layerslider.utils.js"></script>
-    <script src="assets/js/layerslider.transitions.js"></script>
-    <script src="assets/js/layerslider.kreaturamedia.jquery.js"></script>
     <script src="assets/js/jquery-ui.min.js"></script>
     <script src="assets/js/bootstrap.min.js"></script>
     <script src="assets/js/jquery.magnific-popup.min.js"></script>
