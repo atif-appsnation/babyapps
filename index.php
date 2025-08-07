@@ -1407,7 +1407,7 @@
                 <div class="col-xl-4">
                     <div class="vs-blog blog-style1">
                         <div class="blog-img">
-                            <img src="assets/img/blog/blog-1-1.jpg" alt="Blog Thumbnail" class="w-100">
+                            <img src="assets/img/games/alphabet-matchup/alphabet-matchup-02.webp" alt="Blog Thumbnail" class="w-100">
                         </div>
                         <div class="blog-content">
                             <a href="blog" class="blog-date">
@@ -1422,7 +1422,7 @@
                     </div>
                 </div>
 
-                <div class="col-xl-4">
+                <!-- <div class="col-xl-4">
                     <div class="vs-blog blog-style1">
                         <div class="blog-img">
                             <img src="assets/img/blog/blog-1-2.jpg" alt="Blog Thumbnail" class="w-100">
@@ -1458,7 +1458,7 @@
                         </div>
                         <a href="the-digital-playground-top-7-educational-apps-for-babies-in-2025" class="blog-btn">Read More<i class="far fa-angle-right"></i></a>
                     </div>
-                </div>
+                </div> -->
             </div>
         </div>
     </section>

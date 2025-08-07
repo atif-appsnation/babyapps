@@ -257,7 +257,6 @@
     </div>
     <!-- End Breadcumb -->
     
-    
     <!-- Start Blog Area -->
     <section class="vs-blog-wrapper space-top space-extra-bottom">
         <div class="container">
@@ -266,7 +265,7 @@
                     <div class="vs-blog blog-single has-post-thumbnail">
                         <div class="blog-img">
                             <a href="are-video-games-really-good-for-kids-a-parents-guide-in-2026">
-                                <img src="assets/img/blog/blog-single-1-1.jpg" alt="Blog Image">
+                                <img src="assets/img/games/alphabet-matchup/alphabet-matchup-02.webp" alt="Blog Image">
                             </a>
                         </div>
                         <div class="blog-content">
@@ -285,7 +284,7 @@
                             <a href="are-video-games-really-good-for-kids-a-parents-guide-in-2026" class="vs-btn style2">Read More</a>
                         </div>
                     </div>
-                    <div class="vs-blog blog-single has-post-thumbnail">
+                    <!-- <div class="vs-blog blog-single has-post-thumbnail">
                         <div class="blog-img">
                             <a href="10-surprising-benefits-why-kids-should-play-video-games-in-2025">
                                 <img src="assets/img/blog/blog-single-1-1.jpg" alt="Blog Image">
@@ -364,8 +363,8 @@
                             <p class="blog-text">Due to the contentious nature of squaring learning with screen time for babies and toddlers, self-contained entertainment applications inject elements of education to make the most of the precious time spent on screens.</p>
                             <a href="10-surprising-benefits-why-kids-should-play-video-games-in-2025" class="vs-btn style2">Read More</a>
                         </div>
-                    </div>
-                    <div class="vs-pagination  ">
+                    </div> -->
+                    <!-- <div class="vs-pagination  ">
                         <a href="#" class="pagi-btn">Prev</a>
                         <ul>
                             <li><a href="#">1</a></li>
@@ -375,7 +374,7 @@
                             <li><a href="#">12</a></li>
                         </ul>
                         <a href="#" class="pagi-btn">next</a>
-                    </div>
+                    </div> -->
                 </div>
                 <div class="col-lg-4">
                     <aside class="sidebar-area">
